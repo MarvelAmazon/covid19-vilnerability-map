@@ -1,2 +1,2 @@
-# covid19-vilnerability-map
+# covid19-vulnerability-map
 dataset-map for tracking covid19

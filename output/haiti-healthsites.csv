@@ -1,0 +1,1065 @@
+,adm3_sec_code,commune,departement,section_communale,institution_name,categorie,institution_type,institution_code,lat,long,CAL,CSL,Categories Non spec.,Dispensaire,HCR,HD,HU,Hôpital,Hôpital spécial.,Point Fixe,Mixte,Privé,Privé sans but lucratif,Privé à but lucratif,Privé à but non lucratif,Public,Type Non spec.
+1,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de Santé Snelak,Dispensaire,Privé à but lucratif,111607,18.525922,-72.335068,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de psychiatrie Mars & Kline,HCR,Public,111616,18.525922,-72.335068,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+3,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Hôpital St. François de Salle,CSL,Privé à but lucratif,111618,18.537777,-72.344001,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CSL SODEC,CAL,Privé à but lucratif,111619,18.525922,-72.335068,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,PROFAMIL 2,CSL,Privé à but non lucratif,111620,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre médico-social/FHSM,CSL,Public,111831,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé Martissant,CAL,Privé à but lucratif,111832,18.525922,-72.335068,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé Caravelle,CSL,Mixte,111633,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+9,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de Santé Bethesda,CSL,Privé à but non lucratif,111638,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+10,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Hôpital Sapiens,CAL,Privé à but non lucratif,111642,18.525922,-72.335068,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CEMEAH,CSL,Privé à but lucratif,111650,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+12,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CS de St Jude,CSL,Mixte,111851,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+13,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CS Communautaire Cité de l’Eternel,CSL,Privé à but lucratif,111852,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+14,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de Santé St Michel,CSL,Privé à but lucratif,111840,18.530584,-72.366871,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+15,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de Santé Communautaire,CSL,Mixte,111660,18.524258,-72.343973,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+16,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Mission de Charité Cœur Immaculé,CAL,Mixte,111661,,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+17,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CS Evangélique de Siloé,CSL,Privé à but lucratif,111662,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+18,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé des Prés,CSL,Privé à but lucratif,111626,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+19,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre Médico-Social de P-au-P,CSL,Privé à but non lucratif,111663,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+20,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CENTRE DE SANTE COMMUNAUTAIRE TRIANGLE UNI-SANTEÉ,Dispensaire,Privé à but lucratif,111664,18.525754,-72.338649,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+21,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé Christ-Roi,CSL,Public,111665,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+22,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CEJPEPH,CSL,Privé à but non lucratif,111666,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+23,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé Bienfaisance,CSL,Privé à but lucratif,111667,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé Jehovah,CSL,Privé à but lucratif,111868,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+25,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,DASH Martissant 4,Hôpital,Privé à but non lucratif,111869,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+26,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Clinique Familiale,Hôpital,Privé à but lucratif,111670,,,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+27,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Dispensaire Missionnaire,Dispensaire,Privé à but non lucratif,111672,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre Médico-Social,CSL,Privé à but non lucratif,111673,18.52927,-72.355597,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé Delouis,CSL,Mixte,111874,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+30,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Hôpital Sans Frontière,Hôpital,Privé à but non lucratif,111875,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+31,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de santé Pédodontique,CSL,Privé à but lucratif,111623,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+32,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Plurimédic,Hôpital,Privé à but lucratif,111676,,,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+33,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,CS communautaire de Tunnel,CSL,Privé à but non lucratif,111678,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+34,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Clinique Repheka,CSL,Privé à but lucratif,111679,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,HUEH,HU,Public,111600,18.484814,-73.343812,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+36,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Hôpital du Canapé Vert,Hôpital,Privé à but lucratif,111603,18.529823,-72.314787,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+37,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Dispensaire Carifont de Fontamara,CSL,Privé à but non lucratif,111804,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+38,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de Santé du Portail Léogâne,CSL,Public,111605,18.5348,-72.3473,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+39,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de Santé de Solino,CSL,Mixte,111608,18.548873,-72.32408,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+40,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Centre de Santé Richard Allen,CSL,Privé à but non lucratif,111611,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+41,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Hôpital Français,Hôpital,Privé à but lucratif,111613,18.537222,-72.345555,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+42,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,Sanatorium de Port-au-Prince,Hôpital,Public,111621,18.539,-72.335,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+43,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Bayonnais,CSL,Privé à but lucratif,511302,19.410211,-72.478343,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+44,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Labranle,Dispensaire,Public,511504,19.610021,-72.615842,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+45,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Eben-Ezer,CAL,Mixte,511106,19.439113,-72.634886,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+46,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Raboteau,HCR,Public,511108,19.434024,-72.697696,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+47,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Poteaux,Dispensaire,Public,511410,19.516039,-72.621615,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+48,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Disp. La Pierre,Dispensaire,Public,511211,19.452353,-72.735332,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+49,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,La Providence,HD,Public,511201,19.450206,-72.685424,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+50,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Bardo marchand,Dispensaire,Privé,511416,,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+51,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Pont Gaudin,CSL,Public,511103,19.4408,-72.6604,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+52,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Mandrin,CSL,Public,511115,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+53,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Ka-Soleil,CSL,Public,511105,19.455476,-72.689348,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+54,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Bon Berger,CSL,Privé à but lucratif,511207,19.546927,-72.697042,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Trou Sable,Dispensaire,Privé sans but lucratif,511109,19.442589,-72.680191,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+56,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Disp. Brunette,Dispensaire,Privé à but lucratif,511112,19.493402,-72.625615,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+57,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Disp. Terre Blanche,Dispensaire,Privé sans but lucratif,511413,19.493402,-72.625615,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+58,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Disp. Tarasse,Dispensaire,Privé sans but lucratif,511114,19.493402,-72.625615,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+59,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Toussaint Louverture,HCR,Public,512401,19.483752,-72.480701,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+60,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Puilboreau (NF),CSL,Public,512407,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+61,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,St François d’Assise,CSL,Privé à but lucratif,512404,19.486606,-72.483323,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+62,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Disp. Chemin neuf,Dispensaire,Mixte,512305,19.5402,-72.4907,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+63,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Disp. Rouf,Dispensaire,Public,512306,19.490461,-72.483496,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+64,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Passe Reine,Dispensaire,Public,512202,19.490461,-72.483496,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+65,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Savane Carrée,Dispensaire,Public,512103,19.441674,-72.438467,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+66,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Chardène,Dispensaire,Public,531202,19.098117,-72.682283,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+67,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Gresseau,Dispensaire,Public,531105,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+68,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Goyavier,Dispensaire,Public,531304,19.044394,-72.632558,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+69,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Montrouis,Dispensaire,Public,531107,18.951385,-72.705644,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+70,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Jeanton,Dispensaire,Public,531206,19.075414,-72.708739,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+71,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Bocozelle,CAL,Privé à but lucratif,531510,19.098117,-72.682283,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+72,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Gervais,Dispensaire,Privé à but lucratif,531511,19.098117,-72.682283,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+73,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,RSCH/ Gilbert,Dispensaire,Public,531412,19.06648,-72.60913,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+74,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Terre Blanche,Dispensaire,Public,531613,19.071311,-72.67968,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+75,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,SSPE,Dispensaire,Public,531615,19.098117,-72.682283,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+76,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,RSCH/ Bertrant,Dispensaire,Privé à but lucratif,531516,19.16529,-72.63608,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+77,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Saint Nicolas,HCR,Public,531601,19.113489,-72.699036,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+78,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Charrettes,Dispensaire,Public,531603,19.080183,-72.674864,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+79,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Pierre Payen,CAL,Privé à but lucratif,531208,18.9978,-72.737909,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+80,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Pont Sondé,Dispensaire,Public,531509,19.148912,-72.616949,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+81,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,St Laurent/Barbe,Dispensaire,Public,531414,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+82,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Lagarenne,Dispensaire,Privé à but lucratif,531417,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+83,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Fondation Siméus (NF),Dispensaire,Privé à but lucratif,531517,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+84,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,Bastien,Dispensaire,Privé à but lucratif,532503,19.046027,-72.502938,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+85,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Barbe (NF),Dispensaire,Public,532602,19.025578,-72.490697,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+86,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Disp. Christant (NF),Dispensaire,Public,532310,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+87,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,CS de Belanger,CSL,Privé à but lucratif,532211,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+88,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,CS St Guillaume,CSL,Mixte,532312,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+89,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Dumarsais Estimé,Hôpital,Public,532506,19.050792,-72.467605,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+90,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Liancourt,CSL,Privé sans but lucratif,532108,19.127186,-72.534985,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+91,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Disp. Marin (NF),Dispensaire,Public,532309,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+92,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Albert Schweitzer,Hôpital,Privé sans but lucratif,532201,19.074761,-72.491499,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+93,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Desarmes,CSL,Mixte,532404,18.991893,-72.389572,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+94,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Deschapelles,Dispensaire,Privé sans but lucratif,532205,19.081704,-72.495308,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+95,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Gabriel,Dispensaire,Privé sans but lucratif,532407,18.972191,-72.461135,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+96,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Valheureux,Dispensaire,Privé à but lucratif,532413,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+97,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,La Chapelle,CAL,Mixte,533101,18.914082,-72.316337,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+98,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Pélissier/ Laraque,Dispensaire,Privé à but lucratif,541202,19.230124,-72.550727,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+99,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,La Croix Missionnaire,Dispensaire,Privé à but lucratif,541603,19.192282,-72.323224,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+100,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Celio,Dispensaire,Privé à but lucratif,541504,19.218382,-72.459901,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+101,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Niel,Dispensaire,Privé à but lucratif,541305,19.231942,-72.532132,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+102,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Poste Pierrot,Dispensaire,Privé à but lucratif,541406,19.212258,-72.455151,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+103,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Coupe à l’Inde,Dispensaire,Privé à but lucratif,541407,19.280966,-72.478275,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+104,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Sanoix,Dispensaire,Privé à but lucratif,541108,19.226736,-72.581211,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+105,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Grande Hatte,Dispensaire,Privé à but lucratif,541410,19.144335,-72.430159,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+106,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Ogé,Dispensaire,Public,541313,19.203742,-72.498399,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+107,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Hatte Chevreau,Dispensaire,Privé à but lucratif,541214,19.218382,-72.459901,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+108,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Centre Médical Philomène Privenston,CAL,Privé à but lucratif,541316,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+109,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,CS de Haute Feuille,Dispensaire,Public,541217,19.2747,-72.5734,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+110,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,CS de Basse Cabaille,CSL,Privé à but lucratif,541618,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+111,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,CS de Grand Bois,CAL,Public,541319,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+112,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,CS de Bois Mary,CAL,Public,541420,19.235757,-72.473054,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+113,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Claire Heureuse,HCR,Mixte,541301,19.263262,-72.516309,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+114,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Deseaux,Dispensaire,Mixte,541209,19.260782,-72.579742,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+115,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Beaufort (NF),Dispensaire,Privé à but lucratif,541111,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+116,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Shekina (NF),Dispensaire,Privé à but lucratif,541412,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+117,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Sainte Claire d’Assise,Dispensaire,Privé à but lucratif,541311,19.26471,-72.51772,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+118,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Chenot,Dispensaire,Privé sans but lucratif,541512,19.153984,-72.333534,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+119,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Glenn Eben-Ezer,Dispensaire,Privé à but lucratif,541315,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+120,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Drouin,CAL,Public,543101,19.256353,-72.689717,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+121,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Grande Saline (NF),Dispensaire,Public,543102,19.25815,-72.700908,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+122,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Poteneau,Dispensaire,Public,543103,19.25815,-72.700908,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+123,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,CSL St Pierre,CAL,Public,544201,19.310932,-72.689355,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+124,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Disp. Des Cahos,Dispensaire,Public,544202,19.310932,-72.689355,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+125,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Fèk Parèt,Dispensaire,Public,544204,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+126,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,Disp. Aux Sources,Dispensaire,Public,544203,19.330018,-72.675744,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+127,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Bassin,Dispensaire,Public,552202,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+128,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,CSL Marmelade,CAL,Public,552101,19.525499,-72.375645,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+129,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Hôpital Sainte Thérèse,HD,Public,611100,19.144339,-72.019037,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+130,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Clinic l’Incarnation de Pandiasou,CAL,Privé à but non lucratif,611106,19.144339,-72.019037,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+131,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. Withney Clinic,CSL,Public,611107,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+132,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. de Montegrande,Dispensaire,Public,611103,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+133,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. de Dos Palais (NF),Dispensaire,Mixte,611110,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+134,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. des Abricots,Dispensaire,Privé à but lucratif,611104,19.066135,-72.083346,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+135,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Centre de santé Abricots,Dispensaire,Privé à but lucratif,611111,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+136,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Clinique New Hope de Hinche,CSL,Privé à but lucratif,611112,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+137,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Centre de Santé de Marmont,CSL,Public,611201,19.066289,-71.983495,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+138,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. de Bassin Zim,Dispensaire,Public,611308,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+139,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. de Los Palis,Dispensaire,Mixte,611305,19.143837,-71.939903,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+140,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. de Los Palma (NF),Dispensaire,Privé à but lucratif,611309,19.144339,-72.019037,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+141,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Disp. la Belle Onde,Dispensaire,Public,611402,19.144339,-72.019037,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+142,HT0511-01,Gonaives,Artibonite,1re Section Pont Tamarin,Centre de Santé de Maïssade,CAL,Public,612101,19.176316,-72.138886,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+143,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire de Selpètre,CSL,Public,612104,19.141291,-72.19139,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+144,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire Cinquième,Dispensaire,Public,612105,19.166666,-72.149999,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+145,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire Madame Joie,Dispensaire,Public,612106,19.165368,-72.231564,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+146,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire de Bois-Rouge,Dispensaire,Public,612202,19.112799,-72.21179,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+147,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire Ossenande,Dispensaire,Public,612303,19.20221,-72.133687,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+148,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire Bassin Cave (NF),Dispensaire,Privé à but lucratif,612307,19.188423,-72.178987,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+149,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire Hatty (NF),Dispensaire,Privé à but lucratif,612308,19.188423,-72.178987,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+150,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Centre de Santé de Thomonde,CAL,Mixte,613101,19.017612,-71.964794,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+151,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Polyclinique commun. Thomonde,CSL,Privé à but lucratif,613106,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+152,HT0511-02,Gonaives,Artibonite,2e Section Bassin,CS Baille-Tourrible,CSL,Mixte,613305,19.026162,-72.077434,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+153,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire La Hoye,Dispensaire,Public,613402,18.956986,-71.926195,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+154,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire Caste (NF),CSL,Public,613404,18.866679,-71.950696,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+155,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire Pareidon (NF),Dispensaire,Privé à but lucratif,613403,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+156,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Fort St Michel,HCR,Mixte,311302,19.741115,-72.194176,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+157,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Disp. ND Lourdes Carénage,CSL,Mixte,311203,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+158,HT0511-02,Gonaives,Artibonite,2e Section Bassin,Dispensaire de Labadie,CSL,Public,311204,19.749253,-72.218767,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+159,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,"Disp. Sacré-Coeur, Rue 2K",Dispensaire,Privé à but lucratif,311205,19.754856,-72.205102,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+160,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,CEMAD Petite Anse,CAL,Privé à but lucratif,311309,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+161,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,"FOSREF, rue 16",CSL,Privé à but non lucratif,311210,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+162,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,Clinic Médico-Dentaire St Joseph,CSL,Privé à but lucratif,311311,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+163,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,Dispensaire St Jean Bosco,Dispensaire,Privé à but lucratif,311212,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+164,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,DASH,CSL,Privé à but lucratif,311221,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+165,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,CS Passion du Christ,CSL,Privé à but lucratif,311314,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+166,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,CS commun. de Nutrition,CSL,Privé à but lucratif,311313,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+167,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,FOSREF Lakay,CSL,Privé à but non lucratif,311220,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+168,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,Dispensaire Caritas,CSL,Privé à but lucratif,311219,19.755024,-72.204899,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+169,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,CS St Jude de Cap Haïtien,CSL,Privé à but lucratif,311216,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+170,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,Clinique Médicale de Cité du Peuple,CSL,Privé à but lucratif,311218,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+171,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,Unité de Lutte pour la santé,CSL,Privé à but non lucratif,311122,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+172,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,CS médical Shela,CSL,Privé à but lucratif,311217,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+173,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,Hôpital Justinien,HU,Public,311200,19.76244,-72.206315,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+174,HT0511-03,Gonaives,Artibonite,3e Section Pte Riviere de Bayonnais,CDS La Fossette,CSL,Mixte,311201,19.753813,-72.206017,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+175,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,"Disp. Solano SA, Labadie (NF)",Dispensaire,Privé à but lucratif,311106,19.749253,-72.218767,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+176,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Disp. ND Ste Philomène,Dispensaire,Privé à but lucratif,311207,19.745017,-72.21048,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+177,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,CSL Madeline,CSL,Mixte,311308,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+178,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Centre de santé Ste Trinité,CSL,Privé à but lucratif,311215,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+179,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Dispensaire de Limonade,CSL,Public,313301,19.669489,-72.126098,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+180,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Disp. Bord de mer Limonade,Dispensaire,Mixte,313103,19.727527,-72.11915,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+181,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,CSL Porte Ouverte,CSL,Privé à but lucratif,313202,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+182,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Centre de Santé St Charles,CSL,Privé à but non lucratif,313304,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+183,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Centre de Santé Sooring,CSL,Privé à but lucratif,313305,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+184,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Centre Catholique Limonade (NF),CSL,Privé à but lucratif,313306,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+185,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Hôp. Universitaire de Mirebalais,HU,Public,621308,18.837029,-72.113423,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+186,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Dispensaire Décaussière (NF),Dispensaire,Public,621307,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+187,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Dispensaire Grand Boucan (NF),Dispensaire,Privé à but lucratif,621305,18.785057,-72.081949,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+188,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Dispensaire Fonds Michel,Dispensaire,Privé à but lucratif,621306,18.710276,-72.157775,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+189,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Centre de santé ODECOM,CSL,Mixte,621410,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+190,HT0511-04,Gonaives,Artibonite,4e Section Poteaux,Centre de santé Trianon,CSL,Mixte,621409,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+191,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Dispensaire Marché Canard,Dispensaire,Public,621504,18.785538,-72.030515,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+192,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Clinique Mennonite,CSL,Public,621603,18.785057,-72.081949,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+193,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Dispensaire de Sarazin,Dispensaire,Public,621601,18.800437,-72.004715,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+194,HT0511-05,Gonaives,Artibonite,5e Section Labranle,CAL Sacre Coeur,Hôpital,Privé à but lucratif,323201,19.60986,-72.20942,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+195,HT0511-05,Gonaives,Artibonite,5e Section Labranle,La Providence de Lory,CSL,Privé à but non lucratif,323305,19.716859,-72.226939,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+196,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Disp. Carrefour des Pères,Dispensaire,Public,323302,19.684647,-72.20557,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+197,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Dispensaire de Thibault,Dispensaire,Privé à but lucratif,323103,19.633023,-72.227267,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+198,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Centre Santé Fanm,CAL,Mixte,631202,18.82944,-71.93639,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+199,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Centre de santé Mount Gold (NF),CSL,Privé à but lucratif,631205,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+200,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Centre de santé de Lascahobas,CAL,Mixte,631201,18.831787,-71.935658,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+201,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Dispensaire de Bahon,CSL,Public,332501,19.469415,-72.114234,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+202,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Dispensaire. St Joseph,Dispensaire,Privé à but lucratif,332502,19.336228,-72.114158,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+203,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Dispensaire de Croix Fer (NF),Dispensaire,Privé à but lucratif,632102,18.863227,-71.81155,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+204,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Centre de Santé de Baptiste,CAL,Public,632104,18.800683,-71.782641,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+205,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Hôp. Notre Dame de la Nativité,HCR,Public,632101,18.8669,-71.7631,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+206,HT0511-05,Gonaives,Artibonite,5e Section Labranle,Dispensaire de Roy Sec,Dispensaire,Public,632203,18.894522,-71.836756,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+207,HT0512-01,Ennery,Artibonite,1re Section Savane Carree,CSL de St Raphaël,CAL,Public,341401,19.440983,-72.200517,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+208,HT0512-01,Ennery,Artibonite,1re Section Savane Carree,St Joseph,Dispensaire,Privé à but non lucratif,341402,19.436387,-72.200492,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+209,HT0512-01,Ennery,Artibonite,1re Section Savane Carree,Centre de Santé de Savanette,CSL,Mixte,633201,18.745873,-71.8227,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+210,HT0512-01,Ennery,Artibonite,1re Section Savane Carree,Dispensaire de Colombier,Dispensaire,Mixte,633202,18.74609,-71.841443,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+211,HT0512-01,Ennery,Artibonite,1re Section Savane Carree,CSL de Dondon,CAL,Public,342401,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+212,HT0512-01,Ennery,Artibonite,1re Section Savane Carree,Disp. Commun. de Dondon (NF),Dispensaire,Privé à but lucratif,342103,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+213,HT0512-01,Ennery,Artibonite,1re Section Savane Carree,St Joseph,Dispensaire,Privé à but lucratif,342402,19.52619,-72.241752,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+214,HT0512-02,Ennery,Artibonite,2e Section Passe-Reine ou Bas d'Ennery,Dispensaire de Boc Banic,Dispensaire,Public,642201,19.049998,-71.750002,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+215,HT0512-02,Ennery,Artibonite,2e Section Passe-Reine ou Bas d'Ennery,Clinique St Joseph,CAL,Privé à but non lucratif,642202,19.082713,-71.839262,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+216,HT0512-02,Ennery,Artibonite,2e Section Passe-Reine ou Bas d'Ennery,CSL de Ranquitte,CAL,Public,343101,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+217,HT0512-02,Ennery,Artibonite,2e Section Passe-Reine ou Bas d'Ennery,Dispensaire Brenda West,CSL,Public,343102,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+218,HT0512-02,Ennery,Artibonite,2e Section Passe-Reine ou Bas d'Ennery,Disp. St Joseph (Catholique),Dispensaire,Public,343103,19.399373,-72.057575,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+219,HT0512-02,Ennery,Artibonite,2e Section Passe-Reine ou Bas d'Ennery,Centre médico-social de Gébeau,CSL,Mixte,811402,18.622122,-74.1116,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+220,HT0512-02,Ennery,Artibonite,2e Section Passe-Reine ou Bas d'Ennery,Sainte Thérèse de l’Enfant Jésus,Dispensaire,Mixte,811803,18.635672,-74.186146,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+221,HT0512-03,Ennery,Artibonite,3e Section Chemin Neuf,NDPS de Latibolière,Dispensaire,Mixte,811404,18.595286,-74.137916,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+222,HT0512-03,Ennery,Artibonite,3e Section Chemin Neuf,ND de l’Assomption de Numéro 2,Dispensaire,Mixte,811908,18.662431,-74.157489,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+223,HT0512-03,Ennery,Artibonite,3e Section Chemin Neuf,Bon Pasteur de Prévilé,CAL,Mixte,811309,18.536388,-74.157455,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+224,HT0512-03,Ennery,Artibonite,3e Section Chemin Neuf,Immaculée Conception Ste Hélène,CSL,Mixte,811710,18.637605,-74.112174,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+225,HT0512-03,Ennery,Artibonite,3e Section Chemin Neuf,Hôpital Saint Antoine,HCR,Public,811900,18.645613,-74.11801,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+226,HT0512-03,Ennery,Artibonite,3e Section Chemin Neuf,Haitian Health Foundation,CSL,Privé à but non lucratif,811801,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+227,HT0512-03,Ennery,Artibonite,3e Section Chemin Neuf,Siloé de Léon,Dispensaire,Public,811205,18.545621,-74.111399,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+228,HT0512-04,Ennery,Artibonite,4e Section Puilboreau,SSPE de Mackandal,Dispensaire,Public,811906,18.647255,-74.115537,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+229,HT0512-04,Ennery,Artibonite,4e Section Puilboreau,SSPE de Marfranc,Dispensaire,Public,811707,18.587256,-74.208942,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+230,HT0512-04,Ennery,Artibonite,4e Section Puilboreau,Dispensaire Sainte Anne,Dispensaire,Public,811211,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+231,HT0512-04,Ennery,Artibonite,4e Section Puilboreau,Hôp. Bienfaisance de Pignon,HCR,Public,344101,19.33767,-72.11887,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+232,HT0512-04,Ennery,Artibonite,4e Section Puilboreau,St Joseph,Dispensaire,Privé à but non lucratif,344102,19.336228,-72.114158,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+233,HT0512-04,Ennery,Artibonite,4e Section Puilboreau,CSL La Victoire,CAL,Public,345101,19.338179,-72.023904,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+234,HT0512-04,Ennery,Artibonite,4e Section Puilboreau,Dispensaire Saint Joseph (NF),Dispensaire,Privé à but lucratif,345102,19.350713,-72.021933,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+235,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Alliance Santé Borgne,CAL,Mixte,351704,19.84646,-72.52275,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+236,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Disp. de Petit Bourg Borgne,Dispensaire,Public,351302,19.812163,-72.57187,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+237,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,CAL de Borgne (NF),CAL,Public,351301,19.838873,-72.515124,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+238,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Corpus Christi (NF),Dispensaire,Privé à but lucratif,351303,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+239,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,CSL de Port Margot,CSL,Privé à but lucratif,352201,19.751174,-72.429289,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+240,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Dispensaire Petit Bourg,CSL,Public,352602,19.721284,-72.453254,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+241,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Dispensaire de Bayeux,CSL,Mixte,352503,19.808285,-72.433495,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+242,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Dispensaire Malachy,CSL,Mixte,352204,19.75062,-72.428401,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+243,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Clinique Méd. Dr Dorsainvil,CSL,Privé à but lucratif,352307,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+244,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Disp. Wesleyen de Fauché,CAL,Privé à but non lucratif,352305,19.737009,-72.430088,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+245,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Disp. Cath de Pt Bourg,Dispensaire,Privé à but lucratif,352206,19.753971,-72.4639,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+246,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,CS Léon Coicou d’Anse du Clerc,CSL,Mixte,812102,18.647589,-74.278498,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+247,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,SSPE St Joseph des Abricots,CSL,Public,812203,18.648601,-74.307221,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+248,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Chemen Lavi de Bonbon,Dispensaire,Public,8131001,18.630669,-74.237501,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+249,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,HHF de Bonbon,Dispensaire,Privé à but lucratif,8131002,18.630669,-74.237501,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+250,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,Centre de Santé de Moron,CSL,Public,814101,18.559778,-74.259101,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+251,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,ND de Lourdes de Moron,Dispensaire,Privé à but lucratif,814103,18.559778,-74.259101,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+252,HT0531-01,Saint-Marc,Artibonite,1re Section Deluge,HHF de Moron,Dispensaire,Privé à but lucratif,814102,18.477132,-74.265321,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+253,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Hôpital Bon Samaritain,Hôpital,Privé à but lucratif,361702,19.657875,-72.409327,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+254,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire de Camp Coq,CSL,Public,361503,19.633546,-72.42584,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+255,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire Catholique de Camp Coq,CSL,Privé à but lucratif,361506,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+256,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire Haut Limbé,CAL,Mixte,361304,19.699107,-72.356567,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+257,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Centre Galilée de Haut Limbé,CSL,Privé à but non lucratif,361305,19.699107,-72.356567,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+258,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,St Jean de Limbe,HCR,Mixte,361701,19.707383,-72.402015,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+259,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,CS de Chambellan,CSL,Public,815101,18.550484,-74.313227,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+260,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire de Boucan,Dispensaire,Public,815203,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+261,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire Berluce,Dispensaire,Public,815204,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+262,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,SSPE de Bourdon,Dispensaire,Public,815202,18.490001,-74.35058,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+263,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,CAL de Plaisance,CAL,Mixte,1024601,18.453494,-73.521876,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+264,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,SSPE de Gauthier Civil (NF),Dispensaire,Mixte,1024502,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+265,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,CMP Progressio,HCR,Privé à but lucratif,371701,19.594519,-72.478901,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+266,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire de Gobert,Dispensaire,Privé à but lucratif,371102,19.629631,-72.506253,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+267,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire La Trouble,Dispensaire,Privé à but non lucratif,371503,19.567023,-72.441769,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+268,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Disp. St Henry de Puilboreau,Dispensaire,Mixte,371804,19.594519,-72.478901,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+269,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Sant santé Espwa AFSC/Irois,CAL,Public,823501,18.406118,-74.449843,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+270,HT0531-02,Saint-Marc,Artibonite,2e Section Bois Neuf,Dispensaire Carcasse,Dispensaire,Mixte,823702,18.397674,-74.381711,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+271,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Hôpital Espérance de Pilate,HD,Privé à but non lucratif,372101,19.668689,-72.550292,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+272,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,CDS presbytéral de Ravine Trompette,CSL,Privé à but non lucratif,372102,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+273,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,CAL St Pierre de Corail,CAL,Public,831101,18.567626,-73.892602,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+274,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Dispensaire St Gérard,Dispensaire,Mixte,831102,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+275,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,SSPE de Moulines,Dispensaire,Privé à but non lucratif,831103,18.505214,-73.951431,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+276,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Bon Samaritain des Roseaux,Dispensaire,Mixte,832401,18.599179,-74.015662,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+277,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,SSPE de Carrefour Charles,CSL,Mixte,832102,18.536696,-74.000047,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+278,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,St Antoine de Padoue de Lopino,Dispensaire,Mixte,832203,18.509298,-74.062376,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+279,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,HHF à Roseaux,Dispensaire,Privé à but lucratif,832404,18.599179,-74.015662,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+280,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Centre de Santé Saint Martin,CSL,Mixte,832105,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+281,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Hôpital de Fort-Liberté,HD,Public,411100,19.665486,-71.840875,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+282,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Derac,Dispensaire,Public,411101,19.661356,-71.813259,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+283,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Acul Samedi,Dispensaire,Public,411302,19.520589,-71.881861,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+284,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Malfety,Dispensaire,Public,411203,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+285,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Dispensaire La Providence,Dispensaire,Public,833403,18.477785,-73.955195,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+286,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,CAL Sainte Agnès Citimed,CAL,Mixte,833401,18.471583,-73.943243,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+287,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Dispensaire Jean Belune,Dispensaire,Privé à but lucratif,834308,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+288,HT0531-03,Saint-Marc,Artibonite,3e Section Goyavier,Dispensaire de Détail,Dispensaire,Public,834409,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+289,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Centre de Santé de Pestel,CAL,Public,834101,18.541265,-73.799274,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+290,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,SSPE des Basses,Dispensaire,Public,834102,18.493513,-73.824715,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+291,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,SSPE de Duchity,Dispensaire,Public,834503,18.435078,-73.901086,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+292,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,SSPE Espwa de Pointe Sable,Dispensaire,Mixte,834304,18.493513,-73.824715,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+293,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Centre de Santé de Tozia,Dispensaire,Public,834506,18.479115,-73.891019,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+294,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Anse à Macon,Dispensaire,Public,834105,18.493513,-73.824715,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+295,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Centre Espoir Communautaire,Dispensaire,Mixte,834207,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+296,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Disp. de Ferrier,Dispensaire,Public,412301,19.616237,-71.779926,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+297,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Disp. de Meillac,Dispensaire,Public,412302,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+298,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Mérande,Dispensaire,Public,412303,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+299,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Disp. de Perches,Dispensaire,Public,413201,19.517805,-71.934667,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+300,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Maquillon,Dispensaire,Public,413202,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+301,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,CAL de Ouanaminthe,CAL,Public,421101,19.549221,-71.720394,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+302,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Disp. de Dilaire,CSL,Public,421107,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+303,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Disp. d’Acul des Pins,Dispensaire,Public,421202,19.49752,-71.810629,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+304,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Univers Centre Médical,CAL,Privé à but lucratif,421104,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+305,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Disp. Savane au Lait,Dispensaire,Public,421605,19.530021,-71.761248,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+306,HT0531-04,Saint-Marc,Artibonite,4e Section Lalouere,Disp. Savane Longue,Dispensaire,Public,421306,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+307,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,Disp. de Gens de Nantes,Dispensaire,Privé à but lucratif,421503,19.444542,-71.769143,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+308,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Beraca,Dispensaire,Privé à but lucratif,1011101,18.455987,-73.199965,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+309,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Labrousse,CAL,Mixte,1011305,18.322433,-73.011233,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+310,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de St Michel du Sud,Dispensaire,Public,1011406,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+311,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,Hôpital Sainte Thérèse,HD,Public,1011600,18.442982,-73.094948,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+312,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Chalon,Dispensaire,Mixte,1011102,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+313,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Lhomond,Dispensaire,Mixte,1011203,18.455987,-73.199965,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+314,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Belle Rivière,Dispensaire,Mixte,1011204,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+315,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,Disp. de Capotille,CAL,Public,422101,19.447666,-71.693153,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+316,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,Disp. Lamine,Dispensaire,Public,422202,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+317,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,CAL de Mont Organisé,CAL,Public,423201,19.387403,-71.784737,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+318,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,Savanette,Dispensaire,Public,423102,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+319,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Mussotte,Dispensaire,Public,1014102,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+320,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,CAL de Paillant,CAL,Public,1014601,18.419083,-73.144778,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+321,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Jeannette,Dispensaire,Privé à but lucratif,1014203,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+322,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,SSPE de Etang Rey (NF),Dispensaire,Mixte,1014104,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+323,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,Disp. de Jacquezyl,CSL,Mixte,434201,19.684816,-71.992103,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+324,HT0531-05,Saint-Marc,Artibonite,5e Section Bocozelle,Disp. de Caracol,CSL,Mixte,434102,19.692288,-72.017907,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+325,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,CS Sainte Elizabeth,CSL,Mixte,434103,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+326,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,SSPE de Javel,Dispensaire,Mixte,1021303,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+327,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,CAL Jules Fleury,HCR,Public,1021201,18.503512,-73.342236,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+328,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,SSPE de Saint Yves,Dispensaire,Mixte,1021302,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+329,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Disp. de Vallières,Dispensaire,Public,441101,19.434884,-71.920632,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+330,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Disp. de Grosse Roche,Dispensaire,Public,441202,19.477966,-71.995813,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+331,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Disp. de Carice,CAL,Public,442101,19.352602,-71.821034,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+332,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Disp. Ste Hélène de Carice,CSL,Privé à but non lucratif,442102,19.377745,-71.835635,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+333,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Rose Bonite,Dispensaire,Public,442203,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+334,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,SSPE d’Arnaud,CSL,Mixte,1025301,18.446814,-73.379997,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+335,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Baradères,CAL,Public,1031401,18.493213,-73.681587,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+336,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Disp. Ste Elisabeth,Dispensaire,Mixte,1031302,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+337,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,SSPE de Grand Boucan,Dispensaire,Mixte,1032101,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+338,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Trois Rivières,CSL,Public,911301,19.936193,-72.842278,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+339,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Beauchamp,Dispensaire,Public,911406,19.807592,-72.982386,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+340,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Caluc,Dispensaire,Public,911408,19.749271,-72.932769,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+341,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Pilette,Dispensaire,Public,911410,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+342,HT0531-06,Saint-Marc,Artibonite,6e Section Charrette,Fatima Chalet,Dispensaire,Public,911312,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+343,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,La Croix St Joseph,Dispensaire,Privé à but lucratif,911313,19.905684,-72.791501,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+344,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Antenne Santé,CSL,Mixte,911316,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+345,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Dolciné,Dispensaire,Public,911217,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+346,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,FOSREF Lakay (NF),CSL,Privé à but non lucratif,911320,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+347,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,CS Médical de Passe Catabois,CAL,Privé à but lucratif,911821,19.829337,-72.940058,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+348,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Dispensaire Decide,Dispensaire,Public,911624,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+349,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Disp. de Desmarreaux,Dispensaire,Public,911622,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+350,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Immaculée Conception,HD,Public,911300,19.93525,-72.832282,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+351,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Poste Métier,Dispensaire,Public,911503,19.885769,-72.92198,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+352,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Baie des Moustiques,Dispensaire,Public,911504,19.903339,-72.962038,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+353,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Passe Catabois,Dispensaire,Public,911505,19.829337,-72.940058,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+354,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Soleil,Dispensaire,Privé à but lucratif,911309,19.94617,-72.823546,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+355,HT0532-01,Verrettes,Artibonite,1re Section Liancourt,Fatima la Coupe,Dispensaire,Privé à but lucratif,911311,19.929234,-72.823377,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+356,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Beraca,Hôpital,Privé à but non lucratif,911114,19.944935,-72.774933,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+357,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Dispensaire Monfort,Dispensaire,Privé à but non lucratif,911315,19.851856,-72.911695,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+358,HT0532-02,Verrettes,Artibonite,2e Section Belanger,FOSREF Jeune,CSL,Privé à but non lucratif,911319,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+359,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Foison,Dispensaire,Privé à but lucratif,911607,19.851856,-72.911695,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+360,HT0532-02,Verrettes,Artibonite,2e Section Belanger,CS Communale de l’Étoile (NF),CSL,Public,911323,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+361,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Hopital Notre Dame des Palmistes,HCR,Mixte,911101,20.019014,-72.724689,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+362,HT0532-02,Verrettes,Artibonite,2e Section Belanger,La Vallée,Dispensaire,Public,912201,20.038184,-72.864207,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+363,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Mare Rouge 1,Dispensaire,Privé à but non lucratif,912203,20.036529,-72.791197,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+364,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Marie Curie,CAL,Mixte,912204,20.044701,-72.788635,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+365,HT0532-02,Verrettes,Artibonite,2e Section Belanger,CS Harry Bordes,CSL,Privé à but lucratif,912206,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+366,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Aux Plaines,Dispensaire,Mixte,912107,20.010514,-72.663548,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+367,HT0532-02,Verrettes,Artibonite,2e Section Belanger,Montry/Méance,Dispensaire,Mixte,912202,20.033472,-72.808298,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+368,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Dity,Dispensaire,Public,922102,19.845725,-72.613725,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+369,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Côtes-de-Fer,Dispensaire,Public,922303,19.875184,-72.617726,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+370,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Anse-à-Foleur,CAL,Public,922301,19.891953,-72.617587,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+371,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Dupont,Dispensaire,Public,922104,19.852532,-72.654625,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+372,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),HEB,CAL,Public,933101,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+373,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Rochefort,Dispensaire,Public,933202,19.699323,-73.380329,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+374,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Mont des Oliviers,Dispensaire,Public,933203,19.694485,-73.368798,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+375,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Crève,Dispensaire,Public,933306,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+376,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Plateforme,Dispensaire,Privé à but lucratif,933104,19.691051,-73.347442,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+377,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Desforges (NF),Dispensaire,Privé à but lucratif,933205,19.706012,-73.393807,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+378,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Hôpital Saint-Joseph,Hôpital,Privé à but non lucratif,111622,18.5366,-72.3275,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+379,HT0532-03,Verrettes,Artibonite,3e Section Guillaume Moge (Quartier de Desarmes),Renaissance,CSL,Public,111627,18.548523,-72.339518,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+380,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),APROSIFA,CSL,Privé à but non lucratif,111628,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+381,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),Centre de santé Sainte Elizabeth,CSL,Privé à but lucratif,111629,18.524655,-72.340105,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+382,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),Centre de santé Kay Timoun,CSL,Privé à but non lucratif,111630,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+383,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),Centres GHESKIO,CSL,Privé à but non lucratif,111634,18.537206,-72.349662,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+384,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),Hôpital Saint-Esprit,Hôpital,Privé à but lucratif,111641,18.525922,-72.335068,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+385,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),Maternité UMO,Hôpital,Privé à but lucratif,111643,18.525922,-72.335068,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+386,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),FOSREF,CSL,Privé à but lucratif,111645,18.544783,-72.334955,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+387,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),FOSREF,CSL,Privé à but lucratif,111645,18.543035,-72.344838,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+388,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),FOSREF,CSL,Privé à but lucratif,111645,18.531966,-72.337294,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+389,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),Maternité de Christ-roi,Hôpital,Privé à but lucratif,111646,18.525922,-72.335068,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+390,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),CS Cité Canada (Haut Turgeau),CSL,Mixte,111647,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+391,HT0532-04,Verrettes,Artibonite,4e Section Desarmes (Quartier de Desarmes),Institut FAME PEREO,CSL,Mixte,111655,18.5437,-72.321576,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+392,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Hôpital Medimax,Hôpital,Privé à but lucratif,111656,18.530389,-72.336854,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+393,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Hôpital St Louis,Hôpital,Privé à but non lucratif,111659,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+394,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Centre de santé St Antoine,CSL,Privé à but lucratif,111606,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+395,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Centre de santé Aurore du Bel Air,CSL,Public,111602,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+396,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Centre de santé Béthanie,CSL,Privé à but lucratif,111635,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+397,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Centre de Santé ACDEF Mapou,CSL,Privé à but non lucratif,,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+398,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Centre de Santé SOFA,CSL,Privé à but lucratif,,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+399,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Centre de santé de Trou Sable,CSL,Privé à but lucratif,,18.525922,-72.335068,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+400,HT0532-05,Verrettes,Artibonite,5e Section Bastien,CS Bas Fond Philomène Delmas 32,CAL,Privé à but lucratif,112102,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+401,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Citymed de Delmas,Hôpital,Privé à but lucratif,112105,18.570417,-72.291467,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+402,HT0532-05,Verrettes,Artibonite,5e Section Bastien,CS commun. Chrétienne Fleuriot T.,CSL,Privé à but non lucratif,112107,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+403,HT0532-05,Verrettes,Artibonite,5e Section Bastien,Hôpital Grace Children,Hôpital,Mixte,112108,18.559745,-72.301831,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+404,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Hôpital Isaïe Jeanty,HU,Public,112117,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+405,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Hôpital de l’OFATMA,Hôpital,Public,112123,18.566944,-72.325277,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+406,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,CS de Petite Place Cazeau,CSL,Public,112124,18.571,-72.279,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+407,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Centre de santé St Paul,CSL,Privé à but non lucratif,112127,18.543554,-72.305607,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+408,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Bernard Mews,Hôpital,Privé à but lucratif,112128,18.55018,-72.310213,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+409,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,CS Fontaine,CAL,Privé à but non lucratif,112131,18.570417,-72.291467,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+410,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Centre de santé St Martin 1,CSL,Public,112125,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+411,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Clinique Commun. Barthelmy,CSL,Privé à but lucratif,112138,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+412,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Maison la Santé Delmas,CSL,Privé à but non lucratif,112150,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+413,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Centre Médico-Social de la Saline,CSL,Mixte,112104,18.549677,-72.295541,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+414,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Clinique Santé pour Tous,CSL,Privé à but lucratif,112151,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+415,HT0532-06,Verrettes,Artibonite,6e Section Terre Natte,Peace’s Hospital,CSL,Privé à but non lucratif,112144,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+416,HT0533-01,La Chapelle,Artibonite,1re Section Martineau,Clinique St Jude,CSL,Privé à but lucratif,112152,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+417,HT0533-02,La Chapelle,Artibonite,2e Section Bossous,Rapha clinique médicale,CSL,Privé à but non lucratif,112153,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+418,HT0541-01,Dessalines,Artibonite,1re Section Villars,MSF Hollande,Hôpital,Privé à but non lucratif,112154,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+419,HT0541-01,Dessalines,Artibonite,1re Section Villars,Hôpital de Delmas 33,HU,Public,112106,18.553268,-72.321966,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+420,HT0541-01,Dessalines,Artibonite,1re Section Villars,Hôpital Espoir,Hôpital,Privé à but lucratif,112109,18.541257,-72.278946,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+421,HT0541-01,Dessalines,Artibonite,1re Section Villars,Hôpital Jude Anne (DASH),Hôpital,Privé à but non lucratif,112112,18.570417,-72.291467,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+422,HT0541-01,Dessalines,Artibonite,1re Section Villars,CPFO,CSL,Privé à but non lucratif,112114,18.570417,-72.291467,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+423,HT0541-01,Dessalines,Artibonite,1re Section Villars,FONDEFH,CAL,Privé à but non lucratif,112116,18.570417,-72.291467,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+424,HT0541-01,Dessalines,Artibonite,1re Section Villars,Haiti Med (Siclair),CSL,Privé à but non lucratif,112118,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+425,HT0541-01,Dessalines,Artibonite,1re Section Villars,Centre de Sante Dieu qui donne,CAL,Privé à but lucratif,112139,18.570417,-72.291467,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+426,HT0541-01,Dessalines,Artibonite,1re Section Villars,Hôpital Medicare,Hôpital,Privé à but non lucratif,112143,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+427,HT0541-01,Dessalines,Artibonite,1re Section Villars,Food for the Poor,CSL,Privé à but non lucratif,112146,18.541523,-72.397757,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+428,HT0541-01,Dessalines,Artibonite,1re Section Villars,FOSREF,CSL,Privé à but non lucratif,112147,18.544118,-72.31605,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+429,HT0541-01,Dessalines,Artibonite,1re Section Villars,FOSREF,CSL,Privé à but non lucratif,112147,18.554722,-72.311188,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+430,HT0541-01,Dessalines,Artibonite,1re Section Villars,Hôpital DASH Delmas 48,Hôpital,Privé à but non lucratif,112111,18.53852,-72.29539,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+431,HT0541-01,Dessalines,Artibonite,1re Section Villars,FOSREF Christ Roi,CSL,Privé à but lucratif,112155,18.544118,-72.31605,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+432,HT0541-01,Dessalines,Artibonite,1re Section Villars,Hôpital Missionnaires de la Charité,CAL,Privé à but lucratif,112156,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+433,HT0541-01,Dessalines,Artibonite,1re Section Villars,Centre de santé Armée du Salut,CSL,Privé à but lucratif,112101,18.570417,-72.291467,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+434,HT0541-01,Dessalines,Artibonite,1re Section Villars,Centre de Santé de l’Harmonie,CSL,Privé à but lucratif,112157,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+435,HT0541-01,Dessalines,Artibonite,1re Section Villars,CS Delmas 30,CSL,Privé à but lucratif,112103,18.570417,-72.291467,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+436,HT0541-01,Dessalines,Artibonite,1re Section Villars,Centre de santé Solidarité,CSL,Privé à but lucratif,112110,18.570417,-72.291467,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+437,HT0541-01,Dessalines,Artibonite,1re Section Villars,Centre de Santé Saint-Jean,CSL,Public,112122,18.570417,-72.291467,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+438,HT0541-01,Dessalines,Artibonite,1re Section Villars,Centre de Santé Saint-Martin II,CSL,Public,112126,18.570417,-72.291467,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+439,HT0541-01,Dessalines,Artibonite,1re Section Villars,Centre Médico Social de Delmas,CSL,Privé à but lucratif,112145,18.549677,-72.295541,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+440,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Hôpital St François de Cazeau,HCR,Privé à but lucratif,112149,18.55603,-72.28174,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+441,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de santé Croix des Missions,CSL,Public,112158,18.570417,-72.291467,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+442,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de santé Maïs Gâté,CSL,Privé à but lucratif,112159,18.573096,-72.297123,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+443,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Clinique Pré et Post natale,CSL,Privé à but lucratif,1131136,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+444,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre Médico-Social Rivière Froide,CSL,Mixte,1131004,18.518356,-72.412601,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+445,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,CS Béthel Mahotière 81,CSL,Privé à but non lucratif,1131005,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+446,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Disp. la Main Tendue de Bertin,CSL,Mixte,1131108,18.528645,-72.412162,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+447,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Dispensaire ASCOSADEC,CSL,Mixte,1131015,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+448,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,CS OMES,CSL,Mixte,1131017,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+449,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,CS Mère Térésa,CAL,Privé à but lucratif,1131018,18.466024,-72.411097,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+450,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,CS communauté Frères Unis (NF),CAL,Mixte,1131020,,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+451,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,ASAD,CAL,Privé à but lucratif,1131031,18.466024,-72.411097,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+452,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Grace Medical Center,CSL,Mixte,1131132,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+453,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Clinique Mennomite,CSL,Privé à but lucratif,1131027,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+454,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de Santé Tikajou,CSL,Public,1131037,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+455,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de Santé de Malanga,CSL,Privé à but lucratif,1132138,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+456,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de santé Laval,Dispensaire,Public,1132239,18.443451,-72.410375,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+457,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre Hospitalier de Carrefour,Hôpital,Privé à but lucratif,1131040,,,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+458,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de santé Shekinah,CSL,Public,1131041,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+459,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de santé Midha,CSL,Privé à but lucratif,1131142,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+460,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de Santé Médical de Thor,CSL,Privé à but lucratif,1131043,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+461,HT0541-02,Dessalines,Artibonite,2e Section Fosse Naboth ou Duvallon,Centre de santé Procy Chauffard,CSL,Privé à but lucratif,1131644,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+462,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre de santé Bethesda,CSL,Privé à but non lucratif,1131045,18.530665,-72.411279,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+463,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre de santé de Chauffard,Dispensaire,Privé à but non lucratif,1131046,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+464,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre FOSREF,CSL,Privé à but non lucratif,1131747,18.532115,-72.388735,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+465,HT0541-03,Dessalines,Artibonite,3e Section Oge,Hôp Alive Clinic,CSL,Privé à but non lucratif,1131148,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+466,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre de santé Moula,CSL,Privé à but non lucratif,1131149,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+467,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre médical de Paloma,CAL,Privé à but lucratif,1131150,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+468,HT0541-03,Dessalines,Artibonite,3e Section Oge,CS FONDEFH Bizoton 61,CAL,Privé à but lucratif,1131001,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+469,HT0541-03,Dessalines,Artibonite,3e Section Oge,Hôpital de Carrefour,HCR,Public,1131003,18.538261,-72.407454,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+470,HT0541-03,Dessalines,Artibonite,3e Section Oge,Hôpital Adventiste d’Haïti (HAH),HU,Privé à but lucratif,1131006,18.531269,-72.386987,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+471,HT0541-03,Dessalines,Artibonite,3e Section Oge,CSL OBCG,CSL,Privé à but lucratif,1131009,18.53781,-72.409411,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+472,HT0541-03,Dessalines,Artibonite,3e Section Oge,Dispensaire de Taillefer,Dispensaire,Public,1131611,18.483334,-72.408612,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+473,HT0541-03,Dessalines,Artibonite,3e Section Oge,CS Béthel (Christophe Channel),CSL,Privé à but non lucratif,1131113,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+474,HT0541-03,Dessalines,Artibonite,3e Section Oge,CS Multi fonctionnel Sous-Rail,CSL,Mixte,1131014,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+475,HT0541-03,Dessalines,Artibonite,3e Section Oge,Dispensaire Marie Louise de Jésus,Dispensaire,Privé à but non lucratif,1131121,18.540028,-72.420388,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+476,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre Médical de Bertin,CSL,Privé à but lucratif,1131126,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+477,HT0541-03,Dessalines,Artibonite,3e Section Oge,CS Haiti Saint Rock Foundation,CSL,Privé à but lucratif,1131534,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+478,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre de Santé Hands of Love,CSL,Privé à but non lucratif,113919,18.531622,-72.375261,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+479,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre de santé Berekia,CSL,Privé à but lucratif,1131030,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+480,HT0541-03,Dessalines,Artibonite,3e Section Oge,CS Communautaire A.J.RAS,CSL,Privé à but non lucratif,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+481,HT0541-03,Dessalines,Artibonite,3e Section Oge,Centre Cookson Hills,CSL,Privé à but lucratif,,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+482,HT0541-03,Dessalines,Artibonite,3e Section Oge,Rosaline Clinique,CSL,Privé à but lucratif,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+483,HT0541-03,Dessalines,Artibonite,3e Section Oge,CSL La Barque de Pierre (NF),CSL,Privé à but lucratif,1131007,18.466024,-72.411097,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+484,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,SHEKINAH,CAL,Privé à but lucratif,,18.466024,-72.411097,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+485,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Centre Hospitalier d’Arcachon 32,CSL,Public,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+486,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,CS Commun. Doctors on Mission,CAL,Privé à but lucratif,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+487,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Centre Hosp. Dr Raoul Pierre Louis,HCR,Public,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+488,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Centre de Santé de Kenscoff,CSL,Public,115301,18.404312,-72.289664,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+489,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Disp. de Robin (Mission Baptiste),Dispensaire,Mixte,115505,18.404312,-72.289664,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+490,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Dispensaire Godey (Afè Nèg Konbit),Dispensaire,Public,115309,18.404312,-72.289664,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+491,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Disp. Aux Cadets (Afè Nèg Konbit),Dispensaire,Privé à but lucratif,,18.404312,-72.289664,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+492,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Disp. de Bolosse (Mission Baptiste),Dispensaire,Privé à but lucratif,115202,18.404312,-72.289664,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+493,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Hôpital de Fermathe (Mission Baptiste),Hôpital,Mixte,115303,18.467037,-72.293916,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+494,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Disp. ND Perpétuel Secours (Furcy),Dispensaire,Privé à but non lucratif,115307,18.404312,-72.289664,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+495,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Disp. de Greffin (Mission Baptiste),Dispensaire,Privé à but lucratif,,18.404312,-72.289664,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+496,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Dispensaire d’Athis,Dispensaire,Public,,18.404312,-72.289664,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+497,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Disp. de Bongars (Mission Baptiste),Hôpital,Privé à but lucratif,115206,18.404312,-72.289664,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+498,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Disp. Dumisseau (Afè Nèg Konbit),Dispensaire,Privé à but lucratif,,18.424694,-72.23864,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+499,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Centre de Santé de Christianville,CSL,Privé à but lucratif,1162402,18.524036,-72.553549,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+500,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Centre de Santé FOSADEC,CAL,Privé à but lucratif,116103,18.540878,-72.496915,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+501,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Centre de santé de Gressier,CAL,Public,1162307,18.541653,-72.528957,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+502,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Dispensaire de Jasmin,Dispensaire,Privé à but non lucratif,1162316,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+503,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Dispensaire Solo Christus,CSL,Privé à but non lucratif,1162417,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+504,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Dispensaire Bon Berger,Dispensaire,Privé à but lucratif,1162301,18.508452,-72.50948,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+505,HT0541-04,Dessalines,Artibonite,4e Section Poste Pierrot,Centre de santé Haute Sanite (NF),CSL,Privé à but lucratif,116110,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+506,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Haiti Health Ministries,CSL,Privé à but non lucratif,1162414,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+507,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Dispensaire Zèv Atizan Lapè,CSL,Mixte,,18.508452,-72.50948,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+508,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Dispensaire Morne à Bateau,Dispensaire,Privé à but lucratif,,18.546771,-72.512367,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+509,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Hôpital Alive clinic,Dispensaire,Privé à but lucratif,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+510,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,ASDEV,CSL,Privé à but lucratif,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+511,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Centre de santé Bon Secours,CAL,Privé à but lucratif,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+512,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Dispensaire CS L’Union (NF),CSL,Privé à but lucratif,1162412,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+513,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Hôpital St Charles,HCR,Privé à but lucratif,,18.5385,-72.4097,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+514,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Dispensaire MOCMOCHAM,Dispensaire,Privé à but lucratif,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+515,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Nos Petits Frères et Soeurs,Hôpital,Public,118441,18.5707,-72.2535,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+516,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Haïti Med,CAL,Privé à but lucratif,118342,18.580379,-72.267398,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+517,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Hôpital St Luc,Hôpital,Privé à but non lucratif,118443,18.571207,-72.251259,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+518,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Hôpital DASH Tabarre,Hôpital,Privé à but non lucratif,118444,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+519,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Centre de santé de Lyro,CSL,Privé à but lucratif,118445,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+520,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,MSF Belgique,Hôpital,Privé à but non lucratif,118446,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+521,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Family Mémorial Médical center,CSL,Privé à but lucratif,118347,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+522,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Centre de santé of Live,CAL,Privé à but lucratif,118349,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+523,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Centre de santé Croix des Missions,CSL,Public,118319,18.595519,-72.285888,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+524,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,GHESKIO/ IMIS,Hôpital,Privé à but non lucratif,118440,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+525,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,King’s hospital,Hôpital,Privé à but non lucratif,118348,18.5627,-72.2734,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+526,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Dispensaire de Beauséjour,Dispensaire,Mixte,121601,18.439416,-72.588364,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+527,HT0541-05,Dessalines,Artibonite,5e Section Fiefe ou Petit Cahos,Centre de santé Darbonne,CAL,Privé à but non lucratif,121302,18.49283,-72.590039,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+528,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,CS Farnèse Louis Charles,CSL,Privé à but lucratif,1211503,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+529,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Hôpital Cardinal Léger,HCR,Privé à but lucratif,121204,18.513183,-72.609578,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+530,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Asile de Sigueneau,HU,Public,121207,18.439416,-72.588364,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+531,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Hôpital Sainte-Croix,HCR,Public,121108,18.506972,-72.631325,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+532,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Biré (new mission),CSL,Privé à but non lucratif,121209,18.562316,-72.586138,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+533,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre Petit Harpon,CSL,Privé à but lucratif,1211412,18.373423,-72.621028,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+534,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre de santé Marie Jean,CSL,Mixte,121213,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+535,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,HCMC,CSL,Privé à but lucratif,121117,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+536,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,CS de St Etienne,CSL,Mixte,1211219,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+537,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,CS Mathieu,CSL,Mixte,121321,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+538,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,MSF Suisse,Hôpital,Privé à but non lucratif,121222,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+539,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Dispensaire Tombe Gateau,Dispensaire,Privé à but lucratif,1211023,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+540,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre SantLassale.,CSL,Mixte,121224,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+541,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre de Santé Fondation Racine,CSL,Privé à but non lucratif,121225,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+542,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre materno-infantile,CSL,Public,121105,18.506258,-72.629139,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+543,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Sanatorium de Léogane,Hôpital,Public,121306,18.512225,-72.605227,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+544,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Dispensaire de Fonds d’Oie,Dispensaire,Privé à but lucratif,1211010,18.389781,-72.579631,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+545,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Dispensaire de Trouin,CAL,Public,1211411,18.365145,-72.653408,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+546,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Help Hospital,Hôpital,Privé à but lucratif,121215,,,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+547,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre hospitalier Hosana,CAL,Privé à but lucratif,121220,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+548,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre de santé Petite Rivière (NF),CSL,Privé à but lucratif,121214,18.439416,-72.588364,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+549,HT0541-06,Dessalines,Artibonite,6e Section la Croix ou Grand Cahos,Centre de santé Anacaona (NF),CSL,Privé à but lucratif,121216,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+550,HT0543-01,Grande Saline,Artibonite,1re Section Poteneau,Azile St Vincent de Paul,CAL,Public,,18.514344,-72.608521,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+551,HT0543-01,Grande Saline,Artibonite,1re Section Poteneau,Dispensaire d’Arnoux,CSL,Public,122204,18.393524,-73.015871,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+552,HT0543-01,Grande Saline,Artibonite,1re Section Poteneau,Centre de Santé de Deslattes,CSL,Mixte,122806,18.305891,-72.958119,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+553,HT0544-01,Desdunes,Artibonite,1re Section de Desdunes,Hôpital Notre Dame,HCR,Public,1221101,18.376594,-72.931574,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+554,HT0544-01,Desdunes,Artibonite,1re Section de Desdunes,Dispensaire de Vialet,CSL,Public,122102,18.416735,-72.943915,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+555,HT0544-01,Desdunes,Artibonite,1re Section de Desdunes,Dispensaire de Madeleine,Dispensaire,Public,122203,18.411898,-73.008042,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+556,HT0544-01,Desdunes,Artibonite,1re Section de Desdunes,CS Les Palmes (Besace),CSL,Privé à but lucratif,122905,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+557,HT0552-01,Marmelade,Artibonite,1re Section Crete a Pins,Clinique mobile Olivier,CSL,Privé à but lucratif,122207,18.425418,-73.040634,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+558,HT0552-01,Marmelade,Artibonite,1re Section Crete a Pins,CS Henry Gérard Desgranges,CAL,Privé à but lucratif,1221108,18.419686,-72.874795,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+559,HT0552-02,Marmelade,Artibonite,2e Section Bassin ou Billier,Dispensaire APV de Vallue (NF),Dispensaire,Privé à but non lucratif,1221209,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+560,HT0552-02,Marmelade,Artibonite,2e Section Bassin ou Billier,Clinique Siloé,CSL,Privé à but lucratif,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+561,HT0552-03,Marmelade,Artibonite,3e Section Platon,CS Trouchouchou (NF),CSL,Privé à but lucratif,122310,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+562,HT0552-03,Marmelade,Artibonite,3e Section Platon,Centre de Santé de Meyer,CAL,Public,123502,18.348789,-72.716747,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+563,HT0611-01,Hinche,Centre,1re Section Juanaria,Dispensaire de Dufour,Dispensaire,Public,123203,18.317441,-72.800062,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+564,HT0611-01,Hinche,Centre,1re Section Juanaria,Dispensaire de Bonhomme,Dispensaire,Public,123704,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+565,HT0611-01,Hinche,Centre,1re Section Juanaria,Centre de Santé Georges Gauvin,HCR,Public,123101,18.428522,-72.769373,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+566,HT0611-01,Hinche,Centre,1re Section Juanaria,Dispensaire Baudin,Dispensaire,Public,123605,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+567,HT0611-01,Hinche,Centre,1re Section Juanaria,CS de Thomazeau,CAL,Public,132101,18.653279,-72.093776,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+568,HT0611-01,Hinche,Centre,1re Section Juanaria,Centre de santé Vision de Néhémie,CSL,Privé à but non lucratif,132102,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+569,HT0611-01,Hinche,Centre,1re Section Juanaria,Centre de Santé de Ganthier,CSL,Public,133502,18.532202,-72.062172,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+570,HT0611-01,Hinche,Centre,1re Section Juanaria,Eau de vie,CSL,Privé à but lucratif,133306,18.491795,-71.952369,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+571,HT0611-01,Hinche,Centre,1re Section Juanaria,Centre de santé de Thoman 1,CSL,Public,133307,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+572,HT0611-01,Hinche,Centre,1re Section Juanaria,Centre Hospitalier Christ pour tous,Hôpital,Privé à but lucratif,133313,,,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+573,HT0611-01,Hinche,Centre,1re Section Juanaria,Centre de santé Kay Hypocrate,CAL,Privé à but non lucratif,133214,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+574,HT0611-01,Hinche,Centre,1re Section Juanaria,Dispensaire de Savane cabri,Dispensaire,Privé à but non lucratif,133203,18.586144,-72.078196,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+575,HT0611-01,Hinche,Centre,1re Section Juanaria,Love a child,CSL,Privé à but non lucratif,133305,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+576,HT0611-02,Hinche,Centre,2e Section Marmont,Centre de santé de Thoman 2,CSL,Privé à but non lucratif,133308,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+577,HT0611-02,Hinche,Centre,2e Section Marmont,Dispensaire aux bons soins,Dispensaire,Privé à but lucratif,133210,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+578,HT0611-02,Hinche,Centre,2e Section Marmont,Dispensaire d’Orianie,Dispensaire,Privé à but lucratif,135403,18.30613,-71.832342,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+579,HT0611-02,Hinche,Centre,2e Section Marmont,Clinique Confiance en Dieu,CSL,Privé à but non lucratif,135404,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+580,HT0611-02,Hinche,Centre,2e Section Marmont,Dispensaire Ste Croix,Dispensaire,Privé à but non lucratif,135405,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+581,HT0611-02,Hinche,Centre,2e Section Marmont,CS de Fonds Verrettes,CAL,Public,135401,18.393975,-71.854171,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+582,HT0611-02,Hinche,Centre,2e Section Marmont,Dispensaire de Fôret des Pins,Dispensaire,Privé à but lucratif,135402,18.322604,-71.775228,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+583,HT0611-02,Hinche,Centre,2e Section Marmont,SADA Fonds Baptiste,CSL,Mixte,141703,18.924011,-72.584796,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+584,HT0611-02,Hinche,Centre,2e Section Marmont,Disp. ND du Perpétuel Secours,Dispensaire,Public,141205,18.885525,-72.529399,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+585,HT0611-02,Hinche,Centre,2e Section Marmont,Hôpital Reforme de Saintard,Hôpital,Privé à but lucratif,141210,,,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+586,HT0611-02,Hinche,Centre,2e Section Marmont,Carrefour Poy,CSL,Privé à but non lucratif,141213,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+587,HT0611-02,Hinche,Centre,2e Section Marmont,CS Communautaire Williamson,CSL,Privé à but non lucratif,141215,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+588,HT0611-02,Hinche,Centre,2e Section Marmont,Centre de santé Bon Samaritain,Dispensaire,Privé à but lucratif,141209,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+589,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),Clinique Laguerre,Dispensaire,Privé à but lucratif,141214,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+590,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),Mission Matana,CSL,Public,141216,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+591,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),Nicolas Armand,HCR,Public,141201,18.771604,-72.513078,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+592,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),SADA Matheux,CAL,Privé à but non lucratif,141204,18.820728,-72.539253,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+593,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),SADA-AME/Délices,Dispensaire,Privé à but non lucratif,141612,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+594,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),Centre de santé de Rousseau,CSL,Privé à but non lucratif,141811,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+595,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),Clinique St Paul,Dispensaire,Public,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+596,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),CS Rousseau de Montrouis,CAL,Privé à but non lucratif,141806,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+597,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),CAL d’Arcahaie,CAL,Public,141202,18.885525,-72.529399,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+598,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),CSL de Saintard,Dispensaire,Public,141208,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+599,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),CSL de Source Matelas (SADA),CSL,Privé à but lucratif,142901,18.721378,-72.373957,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+600,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),CS St Antoine de Titanyen,CSL,Privé à but lucratif,142905,18.711975,-72.344932,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+601,HT0611-03,Hinche,Centre,3e Section Aguahedionde (Rive Droite),CS St Gérard,CAL,Mixte,142907,,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+602,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Centre de Santé Mission de l’Espoir,CSL,Mixte,142909,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+603,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Centre Hospitalier Veramed,CSL,Privé à but lucratif,142112,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+604,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Centre de santé du Bon samaritain,CSL,Privé à but lucratif,142411,18.523929,-72.369491,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+605,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),CSL de Cabaret,CSL,Public,142102,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+606,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),CSL de Bélanger (SADA),CSL,Privé à but non lucratif,142104,18.733,-72.433,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+607,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),C. hosp. l’université Académique,CAL,Privé à but non lucratif,142910,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+608,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Action Globale,CSL,Privé à but lucratif,,18.774152,-72.397501,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+609,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Centre de Santé Communautaire,CSL,Privé à but lucratif,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+610,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Centre de santé de Bercy,CSL,Privé à but lucratif,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+611,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Centre de santé de Cazale,CSL,Public,142413,18.797148,-72.385233,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+612,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Sanatorium,Hôpital spécial.,Public,711702,18.2,-73.75,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+613,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Klinik Lafanmy,CAL,Privé à but lucratif,711105,18.194623,-73.749298,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+614,HT0611-04,Hinche,Centre,4e Section Aguahedionde (Rive Gauche),Fonfred,Dispensaire,Mixte,711212,18.227982,-73.799379,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+615,HT0612-01,Maissade,Centre,1re Section Savane Grande,World Vision,CSL,Mixte,711913,,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+616,HT0612-01,Maissade,Centre,1re Section Savane Grande,FOSREF,CSL,Mixte,711115,18.300737,-73.761431,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+617,HT0612-01,Maissade,Centre,1re Section Savane Grande,Kay Timoun Bondye (CD),Dispensaire,Privé à but lucratif,711116,18.194405,-73.743466,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+618,HT0612-01,Maissade,Centre,1re Section Savane Grande,Sacré-Cœur (Charpentier),CSL,Privé à but non lucratif,711717,18.300737,-73.761431,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+619,HT0612-01,Maissade,Centre,1re Section Savane Grande,HIC,HCR,Public,711100,18.300737,-73.761431,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+620,HT0612-01,Maissade,Centre,1re Section Savane Grande,I. O. Brenda spécialisé,Hôpital,Mixte,711101,,,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+621,HT0612-01,Maissade,Centre,1re Section Savane Grande,Citymed,CAL,Privé à but lucratif,711103,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+622,HT0612-01,Maissade,Centre,1re Section Savane Grande,Cite Lumière,CAL,Mixte,711104,18.228007,-73.760786,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+623,HT0612-02,Maissade,Centre,2e Section Narang,Quatre Chemins,CSL,Public,711106,18.300737,-73.761431,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+624,HT0612-02,Maissade,Centre,2e Section Narang,Laborde,Dispensaire,Mixte,711309,18.282344,-73.803225,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+625,HT0612-02,Maissade,Centre,2e Section Narang,Colette,Dispensaire,Public,711110,18.193017,-73.777617,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+626,HT0612-02,Maissade,Centre,2e Section Narang,Laurent,Dispensaire,Public,711711,18.262126,-73.735319,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+627,HT0612-02,Maissade,Centre,2e Section Narang,OFATMA,Hôpital,Mixte,711108,18.219162,-73.765222,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+628,HT0612-02,Maissade,Centre,2e Section Narang,Béraud,CSL,Public,712205,18.205415,-73.859813,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+629,HT0612-02,Maissade,Centre,2e Section Narang,Centre de Santé de Torbeck,CSL,Public,712107,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+630,HT0612-02,Maissade,Centre,2e Section Narang,Maison de Naissance,CAL,Privé à but lucratif,712201,18.197215,-73.826291,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+631,HT0612-03,Maissade,Centre,3e Section Hatty,Ducis,Dispensaire,Mixte,712303,18.234514,-73.887504,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+632,HT0612-03,Maissade,Centre,3e Section Hatty,Maillard,Dispensaire,Privé à but lucratif,712104,18.172689,-73.832222,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+633,HT0612-03,Maissade,Centre,3e Section Hatty,Ferme Leblanc,Dispensaire,Public,712306,18.288047,-73.883937,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+634,HT0612-03,Maissade,Centre,3e Section Hatty,Chantal,CSL,Public,713101,18.202965,-73.888953,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+635,HT0612-03,Maissade,Centre,3e Section Hatty,Leprêtre,CAL,Public,713302,18.267269,-73.947409,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+636,HT0612-03,Maissade,Centre,3e Section Hatty,CS Camp-Perrin,HCR,Public,714101,18.312702,-73.865627,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+637,HT0612-03,Maissade,Centre,3e Section Hatty,Mazenod,Dispensaire,Mixte,714202,18.329181,-73.853195,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+638,HT0612-03,Maissade,Centre,3e Section Hatty,Guichard,Dispensaire,Mixte,714103,18.29567,-73.828837,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+639,HT0613-01,Thomonde,Centre,1re Section Cabral,Mersan,Dispensaire,Public,714104,18.281058,-73.843872,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+640,HT0613-01,Thomonde,Centre,1re Section Cabral,Rhé (NF),Dispensaire,Public,714305,18.336964,-73.883945,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+641,HT0613-01,Thomonde,Centre,1re Section Cabral,Dispensaire de Dominique (NF),Dispensaire,Privé à but lucratif,714306,18.300737,-73.761431,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+642,HT0613-01,Thomonde,Centre,1re Section Cabral,Mouvman Peyizan 3e section,CAL,Privé à but lucratif,714307,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+643,HT0613-01,Thomonde,Centre,1re Section Cabral,Maniche,CSL,Mixte,715101,18.345133,-73.777829,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+644,HT0613-01,Thomonde,Centre,1re Section Cabral,Dory,Dispensaire,Public,715202,18.356946,-73.723056,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+645,HT0613-02,Thomonde,Centre,2e Section Tierra Muscady,Melon,Dispensaire,Public,715303,18.35311,-73.773307,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+646,HT0613-02,Thomonde,Centre,2e Section Tierra Muscady,Port Salut,Hôpital,Privé à but non lucratif,721101,18.24904,-74.097615,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+647,HT0613-02,Thomonde,Centre,2e Section Tierra Muscady,HCR PORT-SALUT,Hôpital,Privé à but non lucratif,721101,18.082293,-73.920116,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+648,HT0613-02,Thomonde,Centre,2e Section Tierra Muscady,MHDR (PORT SALUT),Hôpital,Privé à but non lucratif,721101,18.07789,-73.91732,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+649,HT0613-02,Thomonde,Centre,2e Section Tierra Muscady,Dispensaire Marcabel,Dispensaire,Privé à but lucratif,721105,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+650,HT0613-02,Thomonde,Centre,2e Section Tierra Muscady,Dumont,Dispensaire,Public,721202,18.24904,-74.097615,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+651,HT0613-03,Thomonde,Centre,3e Section Baille Tourrible,Carpentier,Dispensaire,Public,721203,18.117339,-73.905623,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+652,HT0613-03,Thomonde,Centre,3e Section Baille Tourrible,HCR de Port Salut,HCR,Public,721104,18.0779,-72.9201,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+653,HT0613-03,Thomonde,Centre,3e Section Baille Tourrible,Klinik Timoun nou yo,CAL,Privé,721106,,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+654,HT0613-03,Thomonde,Centre,3e Section Baille Tourrible,Arniquet,CSL,Public,723301,18.145835,-73.875277,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+655,HT0613-03,Thomonde,Centre,3e Section Baille Tourrible,Château,Dispensaire,Public,723202,18.173911,-73.909397,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+656,HT0613-03,Thomonde,Centre,3e Section Baille Tourrible,Hôpital Saint Boniface,Hôpital,Privé à but non lucratif,731911,18.277414,-73.129996,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+657,HT0613-04,Thomonde,Centre,La Hoye,CS Sunlight La Colline,CAL,Mixte,731602,,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+658,HT0613-04,Thomonde,Centre,La Hoye,Charles Pasqua,CAL,Privé à but non lucratif,731104,18.280881,-73.218883,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+659,HT0613-04,Thomonde,Centre,La Hoye,Vx Bourg,Dispensaire,Mixte,731105,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+660,HT0613-04,Thomonde,Centre,La Hoye,Ste Hélène,Dispensaire,Privé à but lucratif,731506,18.280881,-73.218883,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+661,HT0613-04,Thomonde,Centre,La Hoye,HCR d’Aquin (CDI),HCR,Public,731312,18.281272,-73.397612,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+662,HT0613-04,Thomonde,Centre,La Hoye,Mouillage Fouquet (NF),Dispensaire,Public,731415,18.190004,-73.104086,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+663,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Clinique Santé Familiale,Dispensaire,Privé à but lucratif,731114,18.280881,-73.218883,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+664,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Centre de récupération de TK,CAL,Privé à but lucratif,731113,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+665,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Hôpital Bonne Fin,Hôpital,Privé à but lucratif,733401,18.2996,-73.659,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+666,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,PPS Sante Commun. Marc Lacet,Dispensaire,Mixte,733508,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+667,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Centre Materno-Infantil,CSL,Privé à but lucratif,733110,,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+668,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Disp. ND du Bon Secours,Dispensaire,Mixte,733211,,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+669,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,PPS La Biche,Dispensaire,Privé à but non lucratif,733312,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+670,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,CS Cavaillon,CSL,Public,733102,18.298346,-73.652999,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+671,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Flamands,Dispensaire,Mixte,733204,18.251985,-73.651644,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+672,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Sudre (NF),Dispensaire,Mixte,733406,18.414444,-73.635834,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+673,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,ND de La Nativité de Gros Marin,CAL,Public,733203,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+674,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Centre de Sante de Coteaux,CSL,Public,741501,18.206071,-74.040436,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+675,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Damassin,Dispensaire,Public,741502,18.229275,-74.063698,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+676,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Port-à-Piment,CAL,Public,742101,18.24904,-74.097615,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+677,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Ste Anne,Dispensaire,Privé à but non lucratif,751301,18.273607,-74.166083,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+678,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Rendel,Dispensaire,Mixte,751102,18.317749,-74.093333,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+679,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Dispensaire Roger Paradis,Dispensaire,Mixte,753301,18.342306,-74.332899,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+680,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Les Anglais,CAL,Public,752301,18.307596,-74.219134,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+681,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Disp. Bellevue La Montagne,Dispensaire,Public,2111109,18.296408,-72.524077,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+682,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,CAL Christian Martinez,Hôpital,Privé à but lucratif,211112,18.296408,-72.524077,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+683,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Disp. & C. Nutritionnel Bienheureux,Dispensaire,Privé à but non lucratif,2111214,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+684,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Disp. La Saline,Dispensaire,Privé à but non lucratif,211115,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+685,HT0311-01,Cap-Haitien,Nord,1re Section Bande du Nord,Hôpital St Michel,HD,Public,211600,18.238269,-72.541831,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+686,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CSL des Orangers,CSL,Public,211101,18.260092,-72.508495,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+687,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CSL PROFAMIL,CSL,Privé à but non lucratif,211602,18.236499,-72.531345,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+688,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Disp. Cyvadier,CSL,Public,211103,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+689,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Disp. La Montagne La Croix,Dispensaire,Public,2111104,18.296408,-72.524077,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+690,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CSL Marbial,CSL,Public,211305,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+691,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CSL. Ste Thérèse,CSL,Privé à but non lucratif,211320,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+692,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Disp. Montagne-La-Voûte,Dispensaire,Public,211606,18.296408,-72.524077,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+693,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Disp. Lavanneau,Dispensaire,Public,2111207,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+694,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CSL Lafond,CSL,Public,211110,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+695,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Centre de FOSREF,CSL,Privé à but non lucratif,211111,18.235713,-72.533408,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+696,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Disp. ND de Lourdes,Dispensaire,Privé à but lucratif,211621,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+697,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CAL Arreguy,CAL,Privé à but non lucratif,211108,18.304535,-72.556525,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+698,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CSL Beaudouin,CSL,Privé à but non lucratif,211113,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+699,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CSL Portail Léogâne,CSL,Privé à but non lucratif,211116,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+700,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Kay accouchement,CAL,Privé à but lucratif,211117,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+701,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Complexe M.C Rose Marie Paul,CAL,Privé à but lucratif,211118,,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+702,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Breman (NF),Dispensaire,Privé à but lucratif,211119,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+703,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CS de Marigot,CSL,Public,212101,18.231652,-72.326376,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+704,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Hop Communautaire de Peredo,CSL,Privé à but lucratif,212502,18.247826,-72.304343,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+705,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Disp. Seguin,Dispensaire,Public,212403,18.287233,-72.296595,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+706,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CS de Cayes Jacmel,HCR,Public,213101,18.23111,-72.39786,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+707,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,CS Emmanuel Baptiste,CAL,Privé à but non lucratif,213102,18.261428,-72.402641,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+708,HT0311-02,Cap-Haitien,Nord,2e Section Haut du Cap,Disp. de Cap Rouge,Dispensaire,Public,213303,18.269869,-72.425054,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+709,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Centre de santé Gaillard,CSL,Public,213204,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+710,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,CAL St Joseph La Vallée,CAL,Public,2141101,18.270833,-72.666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+711,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Morne à Brûler,Dispensaire,Public,2141002,18.262705,-72.711015,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+712,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Amalia (NF),Dispensaire,Privé,2141103,18.262705,-72.711015,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+713,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Caritas,Point Fixe,Privé à but lucratif,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+714,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Grande Rivière,Point Fixe,Privé à but lucratif,212204,18.287233,-72.296595,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+715,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Brésilienne,Dispensaire,Mixte,221105,18.212487,-72.788837,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+716,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,CAL de Bainet,CAL,Public,221501,18.183064,-72.755157,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+717,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Saurel,Dispensaire,Public,221902,18.212487,-72.788837,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+718,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Bahot,Dispensaire,Public,221203,18.212487,-72.788837,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+719,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Chaumeille,CSL,Public,221904,18.212487,-72.788837,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+720,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Orangers,Dispensaire,Public,221806,18.212487,-72.788837,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+721,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Bras gauche,Dispensaire,Public,221707,18.212487,-72.788837,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+722,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Organisation Espoir Continu pour Haïti,Dispensaire,Privé à but lucratif,221809,,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+723,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Dipensaire Haut Grandou (NF),Dispensaire,Public,221408,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+724,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Bleck,Dispensaire,Mixte,233102,18.215464,-71.853079,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+725,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,CSL Sacré- Coeur,CAL,Privé à but non lucratif,233305,18.215464,-71.853079,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+726,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,CSL de Thiotte,CSL,Public,233301,18.236543,-71.860125,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+727,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Savane Zombi,Dispensaire,Public,233303,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+728,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. Mare Blanche,Dispensaire,Public,233304,18.215464,-71.853079,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+729,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Disp. de Platon Fèdre,Point Fixe,Mixte,233106,,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+730,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,Point fixe Mare Mirande,Point Fixe,Mixte,,,,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+731,HT0311-03,Cap-Haitien,Nord,3e Section Petit Anse,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+732,HT0313-01,Limonade,Nord,1re Section Basse Plaine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+738,HT0313-02,Limonade,Nord,2e Section Bois de Lance,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+744,HT0313-03,Limonade,Nord,3e Section Roucou,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+750,HT0621-01,Mirebalais,Centre,1re Section Gascogne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+759,HT0621-02,Mirebalais,Centre,2e Section Sarazin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+768,HT0621-03,Mirebalais,Centre,3e Section Grand Boucan,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+777,HT0621-04,Mirebalais,Centre,4e Section Crete Brûlee,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+786,HT0323-01,Milot,Nord,1re Section Perches-de-Bonnet,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+790,HT0323-02,Milot,Nord,2e Section Bonnet a l'Eveque,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+794,HT0323-03,Milot,Nord,3e Section Genipailler,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+798,HT0631-01,Lascahobas,Centre,1re Section Petit Fond,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+801,HT0631-02,Lascahobas,Centre,2e Section Juampas,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+804,HT0332-01,Bahon,Nord,1re Section Bois Pin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+806,HT0332-02,Bahon,Nord,2e Section Bailly ou Bailla,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+808,HT0332-03,Bahon,Nord,3e Section Montagne Noire,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+810,HT0632-01,Belladere,Centre,1re Section Renthe Mathe,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+814,HT0632-02,Belladere,Centre,2e Section Roye-Sec,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+818,HT0632-03,Belladere,Centre,3e Section Riaribes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+822,HT0341-01,Saint-Raphael,Nord,1re Section Bois Neuf,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+824,HT0341-02,Saint-Raphael,Nord,2e Section Mathurin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+826,HT0341-03,Saint-Raphael,Nord,3e Section Bouyaha,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+828,HT0341-04,Saint-Raphael,Nord,4e Section San-Yago,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+830,HT0633-01,Savanette,Centre,1re Section de Savanette (Colombier),,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+832,HT0633-02,Savanette,Centre,2e Section la Haye,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+834,HT0342-01,Dondon,Nord,1re Section Brostage,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+837,HT0342-02,Dondon,Nord,2e Section Bassin Caiman,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+840,HT0342-03,Dondon,Nord,3e Section Matador,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+843,HT0342-04,Dondon,Nord,4e Section Laguille,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+846,HT0342-05,Dondon,Nord,5e Section Haut du Trou,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+849,HT0642-01,Thomassique,Centre,1re Section Matelgate,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+851,HT0642-02,Thomassique,Centre,2e Section Lociane,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+853,HT0343-01,Ranquitte,Nord,1re Section Bac a Soude,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+856,HT0343-02,Ranquitte,Nord,2e Section Bois de Lance,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+859,HT0343-03,Ranquitte,Nord,3e Section Cracaraille,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+862,HT0811-01,Jeremie,Grande'Anse,1re Section Basse Voldrogue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+874,HT0811-02,Jeremie,Grande'Anse,2e Section Haute Voldrogue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+886,HT0811-03,Jeremie,Grande'Anse,3e Section Haute Guinaudee,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+898,HT0811-04,Jeremie,Grande'Anse,4e Section Basse Guinaudee,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+910,HT0811-05,Jeremie,Grande'Anse,5e Section Ravine a Charles,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+922,HT0811-06,Jeremie,Grande'Anse,6e Section Îles Blanches,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+934,HT0811-07,Jeremie,Grande'Anse,7e Section Marfranc ou Grande Riviere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+946,HT0811-08,Jeremie,Grande'Anse,8e Section Fond Rouge Dahere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+958,HT0811-09,Jeremie,Grande'Anse,9e Section Fond Rouge Torbeck,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+970,HT0344-01,Pignon,Nord,1re Section Savannette,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+972,HT0344-02,Pignon,Nord,2e Section la Belle Mere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+974,HT0345-01,La Victoire,Nord,1re Section de la Victoire,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+976,HT0351-01,Borgne,Nord,1re Section Margot,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+980,HT0351-02,Borgne,Nord,2e Section Boucan Michel,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+983,HT0351-03,Borgne,Nord,3e Section Petit Bourgde Borgne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+986,HT0351-04,Borgne,Nord,4e Section Trou d'Enfer,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+989,HT0351-05,Borgne,Nord,5e Section Champagne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+992,HT0351-06,Borgne,Nord,6e Section Molas,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+995,HT0351-07,Borgne,Nord,7e Section Cote de Feret Fond Lagrange,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+998,HT0352-01,Port-Margot,Nord,1re Section de Grande Plaine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1005,HT0352-02,Port-Margot,Nord,2e Section Bas Petit Borgne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1012,HT0352-03,Port-Margot,Nord,3e Section de Corail,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1019,HT0352-04,Port-Margot,Nord,4e Section Haut Petit Borgne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1026,HT0352-05,Port-Margot,Nord,5e Section Bas Quartier,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1033,HT0352-06,Port-Margot,Nord,6e Section Bras Gauche,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1040,HT0812-01,Abricots,Grande'Anse,1re Section Anse du Clerc,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1042,HT0812-02,Abricots,Grande'Anse,2e Section Balisiers,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1044,HT0812-03,Abricots,Grande'Anse,3e Section Danglise,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1046,HT0812-04,Abricots,Grande'Anse,4e Section la Seringue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1048,HT0813-01,Bonbon,Grande'Anse,1re Section Desormeau ou Bonbon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1050,HT0814-01,Moron,Grande'Anse,1re Section Anote ou 1re Tapion,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1053,HT0814-02,Moron,Grande'Anse,2e Section Sources Chaudes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1056,HT0814-03,Moron,Grande'Anse,3e Section l'Assise ou Chameau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1059,HT0361-01,Limbe,Nord,1re Section Haut Limbe ou Acul Jeannot,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1065,HT0361-02,Limbe,Nord,2e Section Chabotte,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1071,HT0361-03,Limbe,Nord,3e Section Camp Coq,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1077,HT0361-04,Limbe,Nord,4e Section Soufriere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1083,HT0361-05,Limbe,Nord,5e Section Ravine Desroches,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1089,HT0361-06,Limbe,Nord,6e Section Ilot-a-Corne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1095,HT0815-01,Chambellan,Grande'Anse,1re Section Dejean,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1099,HT0815-02,Chambellan,Grande'Anse,2e Section Boucan,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1103,HT0371-01,Plaisance,Nord,1re Section Gobert ou Colline Gobert,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1109,HT0371-02,Plaisance,Nord,2e Section Champagne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1115,HT0371-03,Plaisance,Nord,3e Section Haut Martineau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1121,HT0371-04,Plaisance,Nord,4e Section Mapou,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1127,HT0371-05,Plaisance,Nord,5e Section la Trouble,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1133,HT0371-06,Plaisance,Nord,6e Section la Ville,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1139,HT0371-07,Plaisance,Nord,7e Section Bassin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1145,HT0371-08,Plaisance,Nord,8e Section Grande Riviere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1151,HT0823-01,Les Irois,Grande'Anse,1re Section Matador (Jorgue),,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1153,HT0823-02,Les Irois,Grande'Anse,2e Section Belair,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1155,HT0823-03,Les Irois,Grande'Anse,3e Section Garcasse,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1157,HT0372-01,Pilate,Nord,1re Section Ballon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1159,HT0372-02,Pilate,Nord,2e Section Baudin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1161,HT0372-03,Pilate,Nord,3e Section Ravine Trompette,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1163,HT0372-04,Pilate,Nord,4e Section Joly,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1165,HT0372-05,Pilate,Nord,5e Section Dubourg,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1167,HT0372-06,Pilate,Nord,6e Section Piment,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1169,HT0372-07,Pilate,Nord,7e Section Riviere Laporte,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1171,HT0372-08,Pilate,Nord,8e Section Margot,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1173,HT0831-01,Corail,Grande'Anse,1re Section Duquillon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1176,HT0831-02,Corail,Grande'Anse,2e Section Fond d'Icaque,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1179,HT0831-03,Corail,Grande'Anse,3e Section Champy (Nan Campeche),,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1182,HT0832-01,Roseaux,Grande'Anse,1re Section Carrefour Charles ou Jacqui,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1187,HT0832-02,Roseaux,Grande'Anse,2e Section Fond Cochon ou Lopineau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1192,HT0832-03,Roseaux,Grande'Anse,3e Section Grand Vincent,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1197,HT0832-04,Roseaux,Grande'Anse,4e Section les Gommiers,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1202,HT0411-01,Fort-Liberte,Nord-Est,1re Section Dumas,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1206,HT0411-02,Fort-Liberte,Nord-Est,2e Section Bayaha,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1209,HT0411-03,Fort-Liberte,Nord-Est,3e Section Loiseau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1212,HT0411-04,Fort-Liberte,Nord-Est,4e Section Haut Madeleine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1215,HT0833-01,Beaumont,Grande'Anse,1re Section Beaumont,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1217,HT0833-02,Beaumont,Grande'Anse,2e Section Chardonnette,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1219,HT0833-03,Beaumont,Grande'Anse,3e Section Mouline,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1221,HT0834-01,Pestel,Grande'Anse,1re Section Bernagousse,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1230,HT0834-02,Pestel,Grande'Anse,2e Section Espere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1238,HT0834-03,Pestel,Grande'Anse,3e Section Jean Bellune,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1246,HT0834-04,Pestel,Grande'Anse,4e Section Tozia,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1254,HT0834-05,Pestel,Grande'Anse,5e Section Duchity,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1262,HT0834-06,Pestel,Grande'Anse,6e Section Les Îles Cayemittes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1270,HT0412-01,Ferrier,Nord-Est,1re Section Bas Maribahoux,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1273,HT0413-01,Perches,Nord-Est,1re Section Haut des Perches,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1275,HT0413-02,Perches,Nord-Est,2e Section Bas des Perches,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1277,HT0421-01,Ouanaminthe,Nord-Est,1re Section Haut Maribahoux,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1284,HT0421-02,Ouanaminthe,Nord-Est,2e Section Acul des Pins,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1291,HT0421-03,Ouanaminthe,Nord-Est,3e Section Savane Longue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1298,HT0421-04,Ouanaminthe,Nord-Est,4e Section Savane au Lait,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1305,HT0421-05,Ouanaminthe,Nord-Est,5e Section Gens de Nantes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1312,HT1011-01,Miragoane,Nippes,1re Section Chalon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1319,HT1011-02,Miragoane,Nippes,2e Section Belle Riviere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1326,HT1011-03,Miragoane,Nippes,3e Section Dessources,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1333,HT1011-04,Miragoane,Nippes,4e Section St-Michel,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1340,HT0422-01,Capotille,Nord-Est,1re Section Capotille,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1342,HT0422-02,Capotille,Nord-Est,2e Section Lamine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1344,HT0423-01,Mont-Organise,Nord-Est,1re Section Savanette,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1346,HT0423-02,Mont-Organise,Nord-Est,2e Section Bois Poux,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1348,HT1014-01,Paillant,Nippes,1re Section Salagnac,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1352,HT1014-02,Paillant,Nippes,2e Section Bezin II,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1356,HT0434-01,Caracol,Nord-Est,1re Section Champin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1359,HT0434-02,Caracol,Nord-Est,"2e Section Glaudine ou ""Jacquesil""",,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1362,HT1021-01,Anse-a-Veau,Nippes,1re Section Baconnois-Grand-Fond,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1365,HT1021-02,Anse-a-Veau,Nippes,2e Section Grande-Riviere-Joly,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1368,HT1021-03,Anse-a-Veau,Nippes,3e Section Saut du Baril,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1371,HT0441-01,Vallieres,Nord-Est,1re Section Trois Palmistes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1373,HT0441-02,Vallieres,Nord-Est,2e Section Ecrevisse ou Grosse Roche,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1375,HT0441-03,Vallieres,Nord-Est,3e Section Corosse,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1377,HT0442-01,Carice,Nord-Est,1re Section Bois Camelle,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1380,HT0442-02,Carice,Nord-Est,2e Section Rose Bonite,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1383,HT1024-01,Arnaud,Nippes,1re Section Baconnois-Barreau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1384,HT1024-02,Arnaud,Nippes,2e Section Baquet,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1385,HT1024-03,Arnaud,Nippes,3e Section Arnaud (Morcou),,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1386,HT1031-01,Baraderes,Nippes,1re Section Gerin ou Mouton,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1388,HT1031-02,Baraderes,Nippes,2e Section Tete d'Eau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1390,HT1031-03,Baraderes,Nippes,3e Section Fond Tortue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1392,HT1031-04,Baraderes,Nippes,4e Section la Plaine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1394,HT1031-05,Baraderes,Nippes,5e Section Riviere Salee,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1396,HT1032-01,Grand-Boucan,Nippes,1re Section Grand-Boucan,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1397,HT1032-02,Grand-Boucan,Nippes,2e Section Eaux Basses,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1398,HT0911-01,Port-de-Paix,Nord-Ouest,1re Section Baudin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1421,HT0911-02,Port-de-Paix,Nord-Ouest,2e Section la Pointe,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1443,HT0911-03,Port-de-Paix,Nord-Ouest,3e Section Aubert,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1465,HT0911-04,Port-de-Paix,Nord-Ouest,4e Section Mahotiere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1487,HT0911-05,Port-de-Paix,Nord-Ouest,5e Section Bas des Moustiques,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1509,HT0911-06,Port-de-Paix,Nord-Ouest,6e Section la Corne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1531,HT0912-01,La Tortue,Nord-Ouest,1re Section Pointe des Oiseaux,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1538,HT0912-02,La Tortue,Nord-Ouest,2e Section Mare Rouge,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1545,HT0922-01,Anse-a-Foleur,Nord-Ouest,1re Section Bas de Sainte Anne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1549,HT0922-02,Anse-a-Foleur,Nord-Ouest,2e Section Mayance,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1552,HT0922-03,Anse-a-Foleur,Nord-Ouest,3e Section Cotes de Fer,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1555,HT0933-01,Bombardopolis,Nord-Ouest,1re Section Plate Forme,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1561,HT0933-02,Bombardopolis,Nord-Ouest,2e Section des Forges,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1567,HT0933-03,Bombardopolis,Nord-Ouest,3e Section Plaine d'Orange,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1573,HT0111-01,Port-au-Prince,Ouest,1re Section Turgeau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1574,HT0111-02,Port-au-Prince,Ouest,2e Section Morne l'Hopital,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1575,HT0111-03,Port-au-Prince,Ouest,3e Section Martissant,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1639,HT0112-01,Delmas,Ouest,1re Section St Martin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1682,HT0113-01,Carrefour,Ouest,1re Section Morne Chandelle,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1683,HT0113-02,Carrefour,Ouest,2e Section Platon Dufrene,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1684,HT0113-03,Carrefour,Ouest,3e Section Taifer,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1685,HT0113-04,Carrefour,Ouest,4e Section Procy,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1686,HT0113-05,Carrefour,Ouest,5e Section Coupeau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1687,HT0113-06,Carrefour,Ouest,6e Section Bouvier,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1688,HT0113-07,Carrefour,Ouest,7e Section Lavalle,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1689,HT0113-08,Carrefour,Ouest,8e Section Berly,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1690,HT0113-09,Carrefour,Ouest,9e Section Bizoton,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1691,HT0113-10,Carrefour,Ouest,10e Section Thor,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1692,HT0113-11,Carrefour,Ouest,11e Section Riviere Froide,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1693,HT0113-12,Carrefour,Ouest,12e Section Malanga,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1694,HT0113-13,Carrefour,Ouest,13e Section Corail Thor,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2267,HT0115-01,Kenscoff,Ouest,1re Section Nouvelle Touraine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2268,HT0115-02,Kenscoff,Ouest,2e Section Bongars,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2269,HT0115-03,Kenscoff,Ouest,3e Section Sourcailles,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2270,HT0115-04,Kenscoff,Ouest,4e Section Belle Fontaine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2271,HT0115-05,Kenscoff,Ouest,5e Section Grand Fond,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2322,HT0116-01,Gressier,Ouest,1re Section Morne a Bateau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2323,HT0116-02,Gressier,Ouest,2e Section Morne Chandelle,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2324,HT0116-03,Gressier,Ouest,3e Section Petit Boucan,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2370,HT0118-03,Tabarre,Ouest,3e Section Bellevue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2371,HT0118-04,Tabarre,Ouest,4e Section Bellevue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2392,HT0121-01,Leogane,Ouest,1re Section Dessources,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2393,HT0121-02,Leogane,Ouest,2e Section Petite Riviere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2394,HT0121-03,Leogane,Ouest,3e Section Grande Rivere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2395,HT0121-04,Leogane,Ouest,4e Section Fond de Boudin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2396,HT0121-05,Leogane,Ouest,5e Section Palmiste a Vin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2397,HT0121-06,Leogane,Ouest,6e Section Orangers,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2398,HT0121-07,Leogane,Ouest,7e Section Parques,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2399,HT0121-08,Leogane,Ouest,8e Section Beausejour,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2400,HT0121-09,Leogane,Ouest,9e Section Citronniers,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2401,HT0121-10,Leogane,Ouest,10e Section Fond d'Oie,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2402,HT0121-11,Leogane,Ouest,11e Section Gros Morne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2403,HT0121-12,Leogane,Ouest,12e Section Cormiers,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2404,HT0121-13,Leogane,Ouest,13e Section Petit Harpon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2717,HT0122-01,Petit-Goave,Ouest,1re Section Bino,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2718,HT0122-02,Petit-Goave,Ouest,2e Section Delatre,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2719,HT0122-03,Petit-Goave,Ouest,3e Section Trou Chouchou,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2720,HT0122-04,Petit-Goave,Ouest,4e Section Fond Arabie,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2721,HT0122-05,Petit-Goave,Ouest,5e Section Trou Canari,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2722,HT0122-06,Petit-Goave,Ouest,6e Section Trou Canari,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2723,HT0122-07,Petit-Goave,Ouest,7e Section des Platons,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2724,HT0122-08,Petit-Goave,Ouest,8e Section des Platons,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2725,HT0122-09,Petit-Goave,Ouest,9e Section des Palmes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2726,HT0122-10,Petit-Goave,Ouest,10e Section des Palmes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2727,HT0122-11,Petit-Goave,Ouest,11e Section Ravine Seche,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2728,HT0122-12,Petit-Goave,Ouest,12e Section des Fourques,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2849,HT0123-01,Grand-Goave,Ouest,1re Section Tete-a-Boeuf,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2850,HT0123-02,Grand-Goave,Ouest,2e Section Tete-a-Boeuf,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2851,HT0123-03,Grand-Goave,Ouest,3e Section Moussambe,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2852,HT0123-04,Grand-Goave,Ouest,4e Section Moussambe,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2853,HT0123-05,Grand-Goave,Ouest,5e Section Grande Colline,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2854,HT0123-06,Grand-Goave,Ouest,6e Section Grande Colline,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2855,HT0123-07,Grand-Goave,Ouest,7e Section Gerard,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2884,HT0132-01,Thomazeau,Ouest,1re Section Grande Plaine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2885,HT0132-02,Thomazeau,Ouest,2e Section Grande Plaine,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2886,HT0132-03,Thomazeau,Ouest,3e Section Trou d'Eau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2887,HT0132-04,Thomazeau,Ouest,4e Section des Crochus,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2892,HT0133-01,Ganthier,Ouest,1re Section Galette Chambon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2893,HT0133-02,Ganthier,Ouest,2e Section Balan,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2894,HT0133-03,Ganthier,Ouest,3e Section Fond Parisien,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2895,HT0133-04,Ganthier,Ouest,5e Section Pays Pourri,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2896,HT0133-05,Ganthier,Ouest,4e Section Mare Roseaux,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2937,HT0135-01,Fonds-Verrettes,Ouest,1re Section Fonds-Verrettes,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2942,HT0141-01,Arcahaie,Ouest,1re Section Boucassin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2943,HT0141-02,Arcahaie,Ouest,2e Section Fonds Baptiste,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2944,HT0141-03,Arcahaie,Ouest,3e Section des Vases,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2945,HT0141-04,Arcahaie,Ouest,4e Section Montrouis,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2946,HT0141-05,Arcahaie,Ouest,5e Section Delices,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2947,HT0141-06,Arcahaie,Ouest,6e Section Matheux,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3038,HT0142-01,Cabaret,Ouest,1re Section Boucassin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3039,HT0142-02,Cabaret,Ouest,2e Section Boucassin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3040,HT0142-03,Cabaret,Ouest,3e Section Source Matelas,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3041,HT0142-04,Cabaret,Ouest,4e Section Fonds des Blancs (Casale),,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3087,HT0711-01,Les Cayes,Sud,1re Section Bourdet,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3088,HT0711-02,Les Cayes,Sud,2e Section Fonfrede,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3089,HT0711-03,Les Cayes,Sud,3e Section Laborde,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3090,HT0711-04,Les Cayes,Sud,4e Section Laurent,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3091,HT0711-05,Les Cayes,Sud,5e Section Mercy,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3092,HT0711-06,Les Cayes,Sud,6e Section Boulmier,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3183,HT0712-01,Torbeck,Sud,1re Section Boury,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3184,HT0712-02,Torbeck,Sud,2e Section Berault,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3185,HT0712-03,Torbeck,Sud,3e Section Solon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3186,HT0712-04,Torbeck,Sud,4e Section Moreau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3207,HT0713-01,Chantal,Sud,1re Section Fonds Palmiste,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3208,HT0713-02,Chantal,Sud,2e Section Meloniere,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3209,HT0713-03,Chantal,Sud,3e Section Carrefour Canon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3213,HT0714-01,Camp-Perrin,Sud,1re Section Levy Mersan,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3214,HT0714-02,Camp-Perrin,Sud,2e Section Champlois,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3215,HT0714-03,Camp-Perrin,Sud,3e Section Tibi Davezac,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3234,HT0715-01,Maniche,Sud,1re Section Maniche,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3235,HT0715-02,Maniche,Sud,2e Section Dory,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3236,HT0715-03,Maniche,Sud,3e Section Melon,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3243,HT0721-01,Port-Salut,Sud,1re Section Barbois,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3244,HT0721-02,Port-Salut,Sud,2e Section Dumont,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3259,HT0723-01,Arniquet,Sud,1re Section Lazarre,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3260,HT0723-02,Arniquet,Sud,2e Section Anse a Drick,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3261,HT0723-03,Arniquet,Sud,3e Section d'Arniquet,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3265,HT0731-01,Aquin,Sud,1re Section Macean,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3266,HT0731-02,Aquin,Sud,2e Section Bellevue,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3267,HT0731-03,Aquin,Sud,3e Section Brodequin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3268,HT0731-04,Aquin,Sud,4e Section Flamands,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3269,HT0731-05,Aquin,Sud,5e Section Mare a Coiffe,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3270,HT0731-06,Aquin,Sud,6e Section La Colline,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3271,HT0731-07,Aquin,Sud,7e Section Frangipane,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3272,HT0731-08,Aquin,Sud,8e Section Colline a Mongons,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3273,HT0731-09,Aquin,Sud,9e Section Fond des Blancs,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3274,HT0731-10,Aquin,Sud,10e Section Guirand,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3355,HT0733-01,Cavaillon,Sud,1re Section Boileau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3356,HT0733-02,Cavaillon,Sud,2e Section Martineau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3357,HT0733-03,Cavaillon,Sud,3e Section Gros Marin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3358,HT0733-04,Cavaillon,Sud,4e Section Mare Henri,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3359,HT0733-05,Cavaillon,Sud,5e Section Laroque,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3400,HT0741-01,Coteaux,Sud,1re Section Conde,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3401,HT0741-02,Coteaux,Sud,2e Section Despas,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3402,HT0741-03,Coteaux,Sud,3e Section Quentin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3406,HT0742-01,Port-a-Piment,Sud,1re Section Paricot,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3407,HT0742-02,Port-a-Piment,Sud,2e Section Balais,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3408,HT0751-01,Chardonnieres,Sud,1re Section Randel,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3409,HT0751-02,Chardonnieres,Sud,2e Section Dejoie,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3410,HT0751-03,Chardonnieres,Sud,3e Section Bony,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3414,HT0753-01,Tiburon,Sud,1re Section Blactote,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3415,HT0753-02,Tiburon,Sud,2e Section Nan Sevre,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3416,HT0753-03,Tiburon,Sud,3e Section Loby,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3417,HT0753-04,Tiburon,Sud,4e Section Dalmette,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3418,HT0752-01,Les Anglais,Sud,1re Section Verone,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3419,HT0752-02,Les Anglais,Sud,2e Section Edelin,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3420,HT0752-03,Les Anglais,Sud,3e Section Cosse,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3421,HT0211-01,Jacmel,Sud-Est,1re Section Bas Cap Rouge,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3422,HT0211-02,Jacmel,Sud-Est,2e Section Fond Melon (Selles),,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3423,HT0211-03,Jacmel,Sud-Est,3e Section Cochon Gras,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3424,HT0211-04,Jacmel,Sud-Est,4e Section La Gosseline,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3425,HT0211-05,Jacmel,Sud-Est,5e Section Marbial,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3426,HT0211-06,Jacmel,Sud-Est,6e Section Montagne La Voûte,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3427,HT0211-07,Jacmel,Sud-Est,7e Section Grande Riviere de Jacmel,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3428,HT0211-08,Jacmel,Sud-Est,8e Section Bas Coq Chante,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3429,HT0211-09,Jacmel,Sud-Est,9e Section Haut Coq Chante,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3430,HT0211-10,Jacmel,Sud-Est,10e Section La Vanneau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3431,HT0211-11,Jacmel,Sud-Est,11e Section La Montagne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3663,HT0212-01,Marigot,Sud-Est,1re Section Corail Soult,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3664,HT0212-02,Marigot,Sud-Est,2e Section Grande Riviere Fesles,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3665,HT0212-03,Marigot,Sud-Est,3e Section Macary,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3666,HT0212-04,Marigot,Sud-Est,4e Section Fond Jean Noël,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3667,HT0212-05,Marigot,Sud-Est,5e Section Savane Dubois,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3678,HT0213-01,Cayes-Jacmel,Sud-Est,1re Section Ravine Normande,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3679,HT0213-02,Cayes-Jacmel,Sud-Est,2e Section Gaillard,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3680,HT0213-03,Cayes-Jacmel,Sud-Est,3e Section Haut Cap Rouge,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3681,HT0213-04,Cayes-Jacmel,Sud-Est,2e Section Fond Melon Michineau,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3694,HT0214-01,La Vallee,Sud-Est,1re Section La Vallee de Jacmel ou Muzac,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3695,HT0214-02,La Vallee,Sud-Est,2e Section La Vallee de Bainet ou Ternier,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3696,HT0214-03,La Vallee,Sud-Est,3e Section Morne a Brûler,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3719,HT0221-01,Bainet,Sud-Est,1re Section Bresilienne,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3720,HT0221-02,Bainet,Sud-Est,2e Section Trou Mahot,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3721,HT0221-03,Bainet,Sud-Est,3e Section La Vallee de Bainet,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3722,HT0221-04,Bainet,Sud-Est,4e Section Haut Grandou,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3723,HT0221-05,Bainet,Sud-Est,5e Section Bas de Grandou,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3724,HT0221-06,Bainet,Sud-Est,6e Section Bas de Lacroix,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3725,HT0221-07,Bainet,Sud-Est,7e Section Bras Gauche,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3726,HT0221-08,Bainet,Sud-Est,8e Section Oranger,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3727,HT0221-09,Bainet,Sud-Est,9e Section Bas des Gris Gris,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3800,HT0233-01,Thiotte,Sud-Est,1re Section Thiotte,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3801,HT0233-02,Thiotte,Sud-Est,2e Section Pot de Chambre,,Categories Non spec.,Type Non spec.,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1

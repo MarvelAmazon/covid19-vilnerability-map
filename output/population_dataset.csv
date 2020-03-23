@@ -1,0 +1,574 @@
+,adm3_sec_code,departement,commune,section_communale,IHSI_UNFPA_2019_female,IHSI_UNFPA_2019_male,IHSI_UNFPA_2019
+0,11101,Ouest,Port-au-Prince,1re Section Turgeau,350 627,310 115,660 741
+1,11102,Ouest,Port-au-Prince,2e Section Morne l'Hopital,105 735,94 031,199 766
+2,11103,Ouest,Port-au-Prince,3e Section Martissant,191 991,175 042,367 032
+3,11201,Ouest,Delmas,1re Section St Martin,258 526,232 908,491 434
+4,11301,Ouest,Carrefour,1re Section Morne Chandelle,55,67,122
+5,11302,Ouest,Carrefour,2e Section Platon Dufrene,504,696,1 200
+6,11303,Ouest,Carrefour,3e Section Taïfer,337,518,855
+7,11304,Ouest,Carrefour,4e Section Procy,461,690,1 151
+8,11305,Ouest,Carrefour,5e Section Coupeau,619,868,1 487
+9,11306,Ouest,Carrefour,6e Section Bouvier,429,552,981
+10,11307,Ouest,Carrefour,7e Section Lavalle,696,957,1 654
+11,11308,Ouest,Carrefour,8e Section Berly,567,676,1 243
+12,11309,Ouest,Carrefour,9e Section Bizoton,28 496,26 476,54 972
+13,11310,Ouest,Carrefour,10e Section Thor,165 143,146 245,311 388
+14,11311,Ouest,Carrefour,11e Section Rivière Froide,135 437,123 527,258 965
+15,11312,Ouest,Carrefour,12e Section Malanga,494,627,1 120
+16,11313,Ouest,Carrefour,13e Section Corail Thor,262,364,627
+17,11401,Ouest,Pétion-Ville,1re Section Montagne Noire,15 002,14 062,29 064
+18,11402,Ouest,Pétion-Ville,2e Section Aux Cadets,1 547,449,1 996
+19,11403,Ouest,Pétion-Ville,3e Section Etang du Jonc,60 262,60 297,120 560
+20,11404,Ouest,Pétion-Ville,4e Section Bellevue la Montagne,9 294,2 581,11 875
+21,11405,Ouest,Pétion-Ville,5e Section Bellevue Chardonnière,155 302,149 729,305 031
+22,11501,Ouest,Kenscoff,1re Section Nouvelle Touraine,7 995,7 804,15 799
+23,11502,Ouest,Kenscoff,2e Section Bongars,3 762,3 664,7 426
+24,11503,Ouest,Kenscoff,3e Section Sourcailles,17 764,18 583,36 347
+25,11504,Ouest,Kenscoff,4e Section Belle Fontaine,2 173,2 114,4 287
+26,11505,Ouest,Kenscoff,5e Section Grand Fond,3 914,3 635,7 549
+27,11601,Ouest,Gressier,1re Section Morne à Bateau,2 515,2 388,4 904
+28,11602,Ouest,Gressier,2e Section Morne Chandelle,12 269,12 379,24 648
+29,11603,Ouest,Gressier,3e Section Petit Boucan,7 757,8 015,15 772
+30,11701,Ouest,Cité Soleil,2e Section des Varreux,34 598,31 887,66 485
+31,11702,Ouest,Cité Soleil,1re Section des Varreux,133 480,129 604,263 084
+32,11803,Ouest,Tabarre,3e Section Bellevue,63 950,57 292,121 242
+33,11804,Ouest,Tabarre,4e Section Bellevue,21 594,19 147,40 741
+34,12101,Ouest,Léogâne,1re Section Dessources,68 335,65 768,134 103
+35,12102,Ouest,Léogâne,2e Section Petite Rivière,27 552,26 688,54 240
+36,12103,Ouest,Léogâne,3e Section Grande Rivère,9 454,9 038,18 492
+37,12104,Ouest,Léogâne,4e Section Fond de Boudin,7 271,8 640,15 911
+38,12105,Ouest,Léogâne,5e Section Palmiste à Vin,2 710,2 892,5 602
+39,12106,Ouest,Léogâne,6e Section Orangers,879,954,1 833
+40,12107,Ouest,Léogâne,7e Section Parques,1 011,1 028,2 039
+41,12108,Ouest,Léogâne,8e Section Beausejour,1 005,1 005,2 009
+42,12109,Ouest,Léogâne,9e Section Citronniers,741,822,1 563
+43,12110,Ouest,Léogâne,10e Section Fond d'Oie,1 902,2 028,3 930
+44,12111,Ouest,Léogâne,11e Section Gros Morne,1 618,1 599,3 216
+45,12112,Ouest,Léogâne,12e Section Cormiers,1 274,1 394,2 668
+46,12113,Ouest,Léogâne,13e Section Petit Harpon,1 329,1 496,2 825
+47,12201,Ouest,Petit-Goâve,1re Section Bino,17 402,17 945,35 346
+48,12202,Ouest,Petit-Goâve,2e Section Delatre,1 823,2 125,3 948
+49,12203,Ouest,Petit-Goâve,3e Section Trou Chouchou,875,1 105,1 981
+50,12204,Ouest,Petit-Goâve,4e Section Fond Arabie,780,1 012,1 792
+51,12205,Ouest,Petit-Goâve,5e Section Trou Canari,279,368,647
+52,12206,Ouest,Petit-Goâve,6e Section Trou Canari,1 136,1 422,2 559
+53,12207,Ouest,Petit-Goâve,7e Section des Platons,385,470,855
+54,12208,Ouest,Petit-Goâve,8e Section des Platons,2 211,2 748,4 958
+55,12209,Ouest,Petit-Goâve,9e Section des Palmes,954,1 144,2 097
+56,12210,Ouest,Petit-Goâve,10e Section des Palmes,578,717,1 296
+57,12211,Ouest,Petit-Goâve,11e Section Ravine Sèche,68 017,68 174,136 191
+58,12212,Ouest,Petit-Goâve,12e Section des Fourques,11 871,11 511,23 382
+59,12301,Ouest,Grand-Goâve,1re Section Tête-à-Boeuf,30 169,30 701,60 870
+60,12302,Ouest,Grand-Goâve,2e Section Tête-à-Boeuf,6 387,6 372,12 759
+61,12303,Ouest,Grand-Goâve,3e Section Moussambe,2 163,2 014,4 178
+62,12304,Ouest,Grand-Goâve,4e Section Moussambe,4 272,4 141,8 413
+63,12305,Ouest,Grand-Goâve,5e Section Grande Colline,3 157,3 264,6 420
+64,12306,Ouest,Grand-Goâve,6e Section Grande Colline,2 825,2 887,5 712
+65,12307,Ouest,Grand-Goâve,7e Section Gerard,40 582,30 781,71 362
+66,13101,Ouest,Croix-Des-Bouquets,1re Section des Varreux,14 868,12 375,27 242
+67,13102,Ouest,Croix-Des-Bouquets,2e Section des Varreux,61 654,66 245,127 899
+68,13103,Ouest,Croix-Des-Bouquets,3e Section Petit Bois,53 088,48 578,101 666
+69,13104,Ouest,Croix-Des-Bouquets,4e Section Petit Bois,5 016,4 094,9 110
+70,13105,Ouest,Croix-Des-Bouquets,5e Section Petit Bois,8 018,6 639,14 657
+71,13106,Ouest,Croix-Des-Bouquets,6e Section Belle Fontaine,1 324,1 227,2 551
+72,13107,Ouest,Croix-Des-Bouquets,7e Section Belle Fontaine,2 622,2 255,4 878
+73,13108,Ouest,Croix-Des-Bouquets,8e Section Belle Fontaine,4 665,4 250,8 915
+74,13109,Ouest,Croix-Des-Bouquets,9e Section des Crochus,2 296,2 007,4 303
+75,13110,Ouest,Croix-Des-Bouquets,10e Section des Orangers,4 718,4 427,9 146
+76,13201,Ouest,Thomazeau,1re Section Grande Plaine,17 139,18 602,35 741
+77,13202,Ouest,Thomazeau,2e Section Grande Plaine,3 348,3 381,6 729
+78,13203,Ouest,Thomazeau,3e Section Trou d'Eau,3 815,4 176,7 991
+79,13204,Ouest,Thomazeau,4e Section des Crochus,7 889,7 497,15 386
+80,13301,Ouest,Ganthier,1re Section Galette Chambon,4 224,3 711,7 935
+81,13302,Ouest,Ganthier,2e Section Balan,4 054,3 673,7 727
+82,13303,Ouest,Ganthier,3e Section Fond Parisien,17 109,17 961,35 070
+83,13304,Ouest,Ganthier,5e Section Pays Pourri,2 931,2 616,5 546
+84,13305,Ouest,Ganthier,4e Section Mare Roseaux,10 376,11 095,21 471
+85,13401,Ouest,Cornillon / Grand Bois,"1re Section Plaine Céleste
+",7 685,8 036,15 721
+86,13402,Ouest,Cornillon / Grand Bois,2e Section Plaine Céleste,6 234,6 542,12 776
+87,13403,Ouest,Cornillon / Grand Bois,3e Section Boucan Bois Pin,7 983,8 504,16 488
+88,13404,Ouest,Cornillon / Grand Bois,4e Section Boucan Bois Pin,9 153,9 630,18 783
+89,13405,Ouest,Cornillon / Grand Bois,5e Section Génipailler,4 958,5 451,10 409
+90,13501,Ouest,Fonds-Verrettes,1re Section Fonds-Verrettes,30 626,31 569,62 195
+91,14101,Ouest,Arcahaie,1re Section Boucassin,2 135,1 906,4 041
+92,14102,Ouest,Arcahaie,2e Section Fonds Baptiste,5 970,5 687,11 657
+93,14103,Ouest,Arcahaie,3e Section des Vases,57 608,58 499,116 107
+94,14104,Ouest,Arcahaie,4e Section Montrouis,5 265,4 778,10 044
+95,14105,Ouest,Arcahaie,5e Section Delices,4 695,4 935,9 630
+96,14106,Ouest,Arcahaie,6e Section Matheux,5 267,5 267,10 533
+97,14201,Ouest,Cabaret,1re Section Boucassin,598,458,1 056
+98,14202,Ouest,Cabaret,2e Section Boucassin,39 106,39 195,78 301
+99,14203,Ouest,Cabaret,3e Section Source Matelas,1 253,982,2 235
+100,14204,Ouest,Cabaret,4e Section Fonds des Blancs (Casale),1 759,1 498,3 257
+101,15101,Ouest,Anse à Galets,1re Section Palma,1 720,1 457,3 177
+102,15102,Ouest,Anse à Galets,2e Section Petite Source,31 339,32 763,64 102
+103,15103,Ouest,Anse à Galets,3e Section Grande Source,1 465,1 185,2 650
+104,15104,Ouest,Anse à Galets,4e Section Grand Lagon,2 856,2 407,5 263
+105,15105,Ouest,Anse à Galets,5e Section Picmy,506,414,920
+106,15106,Ouest,Anse à Galets,6e Section Petite Anse,890,780,1 670
+107,15201,Ouest,Pointe à Raquette,5e Section Gros Mangle,1 383,1 402,2 785
+108,15202,Ouest,Pointe à Raquette,1re Section la Source,2 064,2 206,4 269
+109,15203,Ouest,Pointe à Raquette,2e Section Grand Vide,2 438,2 644,5 083
+110,15204,Ouest,Pointe à Raquette,3e Section Trou Louis,3 501,3 852,7 353
+111,15205,Ouest,Pointe à Raquette,4e Section Pointe à Raquette,5 245,5 748,10 993
+112,21101,Sud-Est,Jacmel,1re Section Bas Cap Rouge,48 357,45 715,94 073
+113,21102,Sud-Est,Jacmel,2e Section Fond Melon (Selles),1 446,1 227,2 672
+114,21103,Sud-Est,Jacmel,3e Section Cochon Gras,9 178,9 302,18 480
+115,21104,Sud-Est,Jacmel,4e Section La Gosseline,3 849,3 687,7 536
+116,21105,Sud-Est,Jacmel,5e Section Marbial,1 679,1 799,3 478
+117,21106,Sud-Est,Jacmel,6e Section Montagne La Voûte,30 114,28 958,59 071
+118,21107,Sud-Est,Jacmel,7e Section Grande Rivière de Jacmel,4 636,4 981,9 617
+119,21108,Sud-Est,Jacmel,8e Section Bas Coq Chante,7 372,7 890,15 262
+120,21109,Sud-Est,Jacmel,9e Section Haut Coq Chante,4 205,4 629,8 834
+121,21110,Sud-Est,Jacmel,10e Section La Vanneau,7 445,7 520,14 966
+122,21111,Sud-Est,Jacmel,11e Section La Montagne,15 562,15 048,30 610
+123,21201,Sud-Est,Marigot,1re Section Corail Soult,14 515,12 299,26 814
+124,21202,Sud-Est,Marigot,2e Section Grande Rivière Fesles,5 153,4 701,9 855
+125,21203,Sud-Est,Marigot,3e Section Macary,13 065,11 719,24 784
+126,21204,Sud-Est,Marigot,4e Section Fond Jean Noël,12 414,11 519,23 933
+127,21205,Sud-Est,Marigot,5e Section Savane Dubois,10 184,9 986,20 170
+128,21301,Sud-Est,Cayes-Jacmel,1re Section Ravine Normande,8 582,8 179,16 760
+129,21302,Sud-Est,Cayes-Jacmel,2e Section Gaillard,11 497,10 792,22 288
+130,21303,Sud-Est,Cayes-Jacmel,3e Section Haut Cap Rouge,4 403,4 119,8 522
+131,21304,Sud-Est,Cayes-Jacmel,2e Section Fond Melon Michineau,4 827,4 617,9 444
+132,21401,Sud-Est,La Vallée,1re Section La Vallee de Jacmel ou Muzac,10 738,12 114,22 852
+133,21402,Sud-Est,La Vallée,2e Section La Vallee de Bainet ou Ternier,6 674,7 440,14 114
+134,21403,Sud-Est,La Vallée,3e Section Morne à Brûler,7 064,7 444,14 508
+135,22101,Sud-Est,Bainet,1re Section Bresilienne,7 563,7 960,15 522
+136,22102,Sud-Est,Bainet,2e Section Trou Mahot,6 999,7 318,14 317
+137,22103,Sud-Est,Bainet,3e Section La Vallee de Bainet,7 108,7 728,14 836
+138,22104,Sud-Est,Bainet,4e Section Haut Grandou,3 568,3 735,7 303
+139,22105,Sud-Est,Bainet,5e Section Bas de Grandou,10 903,11 211,22 114
+140,22106,Sud-Est,Bainet,6e Section Bas de Lacroix,1 300,1 365,2 665
+141,22107,Sud-Est,Bainet,7e Section Bras Gauche,3 370,3 449,6 819
+142,22108,Sud-Est,Bainet,8e Section Oranger,6 092,6 075,12 166
+143,22109,Sud-Est,Bainet,9e Section Bas des Gris Gris,13 192,13 654,26 847
+144,22201,Sud-Est,Côtes de Fer,1re Section Gris Gris,11 313,12 709,24 022
+145,22202,Sud-Est,Côtes de Fer,2e Section Labiche,5 527,5 452,10 978
+146,22203,Sud-Est,Côtes de Fer,3e Section Bras Gauche,1 898,1 975,3 873
+147,22204,Sud-Est,Côtes de Fer,4e Section Amazone,2 755,3 008,5 764
+148,22205,Sud-Est,Côtes de Fer,5e Section Boucan Belier,2 298,2 731,5 029
+149,22206,Sud-Est,Côtes de Fer,6e Section Jamais Vu,8 901,10 725,19 626
+150,23101,Sud-Est,Belle Anse,1re Section Bais d'Orange,7 312,6 655,13 968
+151,23102,Sud-Est,Belle Anse,2e Section Mabriole,7 948,7 458,15 406
+152,23103,Sud-Est,Belle Anse,3e Section Callumette,3 949,3 756,7 705
+153,23104,Sud-Est,Belle Anse,4e Section Corail Lamothe,7 341,6 986,14 327
+154,23105,Sud-Est,Belle Anse,5e Section Bel Air,12 120,12 041,24 160
+155,23106,Sud-Est,Belle Anse,6e Section Pichon,6 626,6 552,13 178
+156,23107,Sud-Est,Belle Anse,7e Section Mapou,9 278,9 299,18 577
+157,23201,Sud-Est,Grand Gosier,1re Section Colline des Chênes ou Bodarie,12 044,12 060,24 104
+158,23301,Sud-Est,Thiotte,1re Section Thiotte,17 736,17 874,35 610
+159,23302,Sud-Est,Thiotte,2e Section Pot de Chambre,6 937,6 805,13 742
+160,23401,Sud-Est,Anse-à-Pître,1re Section Boucan Guillaume,11 718,12 442,24 160
+161,23402,Sud-Est,Anse-à-Pître,2e Section Bois d'Orme,9 356,9 082,18 437
+162,31101,Nord,Cap-Haïtien,1re Section Bande du Nord,14 178,11 096,25 274
+163,31102,Nord,Cap-Haïtien,2e Section Haut du Cap,87 282,75 923,163 205
+164,31103,Nord,Cap-Haïtien,3e Section Petit Anse,58 188,51 544,109 732
+165,31201,Nord,Quartier Morin,1re Section Basse Plaine,7 226,7 339,14 564
+166,31202,Nord,Quartier Morin,2e Section Morne Pele,7 367,7 801,15 168
+167,31301,Nord,Limonade,1re Section Basse Plaine,9 049,9 653,18 702
+168,31302,Nord,Limonade,2e Section Bois de Lance,5 905,6 293,12 199
+169,31303,Nord,Limonade,3e Section Roucou,14 549,14 480,29 029
+170,32101,Nord,Acul du Nord,1re Section Camp-Louise,4 726,4 909,9 635
+171,32102,Nord,Acul du Nord,2e Section Bas de l'Acul (Basse Plaine),12 135,12 154,24 289
+172,32103,Nord,Acul du Nord,3e Section Mornet,6 105,5 835,11 940
+173,32104,Nord,Acul du Nord,4e Section Grande Ravine,1 922,2 028,3 950
+174,32105,Nord,Acul du Nord,5e Section Coupe à David,1 462,1 600,3 061
+175,32106,Nord,Acul du Nord,6e Section Soufrière,3 762,4 120,7 882
+176,32201,Nord,Plaine du Nord,1re Section Morne Rouge,7 951,7 773,15 723
+177,32202,Nord,Plaine du Nord,2e Section Basse Plaine,8 642,8 339,16 981
+178,32203,Nord,Plaine du Nord,3e Section Grand Boucan,5 557,5 119,10 675
+179,32204,Nord,Plaine du Nord,4e Section Bassin Diamant,719,736,1 455
+180,32301,Nord,Milot,1re Section Perches-de-Bonnet,5 220,5 296,10 515
+181,32302,Nord,Milot,2e Section Bonnet à l'Evêque,7 414,7 193,14 607
+182,32303,Nord,Milot,3e Section Genipailler,4 636,5 009,9 645
+183,33101,Nord,Grande Riviere Du Nord,1re Section Grand Gilles,2 052,2 203,4 255
+184,33102,Nord,Grande Riviere Du Nord,2e Section Solon,1 854,1 980,3 834
+185,33103,Nord,Grande Riviere Du Nord,3e Section Caracol,1 607,1 779,3 386
+186,33104,Nord,Grande Riviere Du Nord,4e Section Gambade,1 779,2 006,3 785
+187,33105,Nord,Grande Riviere Du Nord,5e Section Jolitrou,3 585,4 034,7 619
+188,33106,Nord,Grande Riviere Du Nord,6e Section Cormiers,11 821,10 250,22 071
+189,33201,Nord,Bahon,1re Section Bois Pin,3 412,3 620,7 033
+190,33202,Nord,Bahon,2e Section Bailly ou Bailla,7 314,7 361,14 675
+191,33203,Nord,Bahon,3e Section Montagne Noire,1 758,1 803,3 561
+192,34101,Nord,Saint-Raphaël,1re Section Bois Neuf,2 843,2 804,5 647
+193,34102,Nord,Saint-Raphaël,2e Section Mathurin,1 870,2 132,4 003
+194,34103,Nord,Saint-Raphaël,3e Section Bouyaha,3 856,4 144,8 000
+195,34104,Nord,Saint-Raphaël,4e Section San-Yago,20 347,20 422,40 770
+196,34201,Nord,Dondon,1re Section Brostage,3 095,3 237,6 333
+197,34202,Nord,Dondon,2e Section Bassin Caïman,2 097,2 203,4 300
+198,34203,Nord,Dondon,3e Section Matador,3 730,3 900,7 630
+199,34204,Nord,Dondon,4e Section Laguille,7 969,7 986,15 955
+200,34205,Nord,Dondon,5e Section Haut du Trou,1 546,1 842,3 389
+201,34301,Nord,Ranquitte,1re Section Bac à Soude,6 602,6 980,13 582
+202,34302,Nord,Ranquitte,2e Section Bois de Lance,4 850,5 258,10 108
+203,34303,Nord,Ranquitte,3e Section Cracaraille,3 219,3 198,6 417
+204,34401,Nord,Pignon,1re Section Savannette,15 807,15 594,31 401
+205,34402,Nord,Pignon,2e Section la Belle Mère,7 618,7 998,15 616
+206,34501,Nord,La Victoire,1re Section de la Victoire,5 767,5 688,11 455
+207,35101,Nord,Borgne,1re Section Margot,6 592,6 408,13 000
+208,35102,Nord,Borgne,2e Section Boucan Michel,6 797,7 136,13 932
+209,35103,Nord,Borgne,3e Section Petit Bourgde Borgne,7 528,7 141,14 669
+210,35104,Nord,Borgne,4e Section Trou d'Enfer,2 233,2 210,4 444
+211,35105,Nord,Borgne,5e Section Champagne,829,890,1 719
+212,35106,Nord,Borgne,6e Section Molas,3 321,3 799,7 120
+213,35107,Nord,Borgne,7e Section Cote de Feret Fond Lagrange,9 203,8 640,17 843
+214,35201,Nord,Port-Margot,1re Section de Grande Plaine,991,1 065,2 056
+215,35202,Nord,Port-Margot,2e Section Bas Petit Borgne,9 977,10 283,20 260
+216,35203,Nord,Port-Margot,3e Section de Corail,4 538,4 485,9 023
+217,35204,Nord,Port-Margot,4e Section Haut Petit Borgne,1 588,1 608,3 196
+218,35205,Nord,Port-Margot,5e Section Bas Quartier,5 327,5 299,10 626
+219,35206,Nord,Port-Margot,6e Section Bras Gauche,4 543,4 501,9 044
+220,36101,Nord,Limbé,1re Section Haut Limbe ou Acul Jeannot,2 443,2 433,4 876
+221,36102,Nord,Limbé,2e Section Chabotte,1 811,1 945,3 756
+222,36103,Nord,Limbé,3e Section Camp Coq,5 366,5 413,10 780
+223,36104,Nord,Limbé,4e Section Soufrière,2 931,3 022,5 953
+224,36105,Nord,Limbé,5e Section Ravine Desroches,32 807,32 060,64 867
+225,36106,Nord,Limbé,6e Section Ilot-à-Corne,1 202,1 268,2 470
+226,36201,Nord,Bas Limbé,1re Section Garde Champètre (Bas Limbe),889,952,1 841
+227,36202,Nord,Bas Limbé,2e Section Petit Howars (la Fange),10 597,10 274,20 871
+228,37101,Nord,Plaisance,1re Section Gobert ou Colline Gobert,4 521,4 526,9 047
+229,37102,Nord,Plaisance,2e Section Champagne,2 085,1 954,4 039
+230,37103,Nord,Plaisance,3e Section Haut Martineau,1 541,1 561,3 102
+231,37104,Nord,Plaisance,4e Section Mapou,3 462,3 347,6 810
+232,37105,Nord,Plaisance,5e Section la Trouble,3 411,3 498,6 910
+233,37106,Nord,Plaisance,6e Section la Ville,3 277,3 417,6 693
+234,37107,Nord,Plaisance,7e Section Bassin,13 436,12 779,26 215
+235,37108,Nord,Plaisance,8e Section Grande Rivière,6 429,6 375,12 804
+236,37201,Nord,Pilate,1re Section Ballon,11 118,10 549,21 668
+237,37202,Nord,Pilate,2e Section Baudin,2 430,2 354,4 784
+238,37203,Nord,Pilate,3e Section Ravine Trompette,4 050,3 916,7 966
+239,37204,Nord,Pilate,4e Section Joly,1 819,1 765,3 584
+240,37205,Nord,Pilate,5e Section Dubourg,1 443,1 440,2 883
+241,37206,Nord,Pilate,6e Section Piment,1 504,1 538,3 042
+242,37207,Nord,Pilate,7e Section Rivière Laporte,2 102,2 227,4 329
+243,37208,Nord,Pilate,8e Section Margot,5 291,5 192,10 484
+244,41101,Nord-Est,Fort-Liberté,1re Section Dumas,14 388,13 776,28 164
+245,41102,Nord-Est,Fort-Liberté,2e Section Bayaha,1 689,1 889,3 577
+246,41103,Nord-Est,Fort-Liberté,3e Section Loiseau,1 806,1 810,3 616
+247,41104,Nord-Est,Fort-Liberté,4e Section Haut Madeleine,1 769,1 720,3 489
+248,41201,Nord-Est,Ferrier,1re Section Bas Maribahoux,8 028,8 491,16 519
+249,41301,Nord-Est,Perches,1re Section Haut des Perches,1 146,1 203,2 349
+250,41302,Nord-Est,Perches,2e Section Bas des Perches,5 261,5 428,10 689
+251,42101,Nord-Est,Ouanaminthe,1re Section Haut Maribahoux,48 300,46 776,95 075
+252,42102,Nord-Est,Ouanaminthe,2e Section Acul des Pins,2 738,2 708,5 446
+253,42103,Nord-Est,Ouanaminthe,3e Section Savane Longue,5 422,5 367,10 789
+254,42104,Nord-Est,Ouanaminthe,4e Section Savane au Lait,2 412,2 385,4 797
+255,42105,Nord-Est,Ouanaminthe,5e Section Gens de Nantes,1 821,1 803,3 624
+256,42201,Nord-Est,Capotille,1re Section Capotille,7 316,7 653,14 969
+257,42202,Nord-Est,Capotille,2e Section Lamine,3 348,3 548,6 896
+258,42301,Nord-Est,Mont-Organisé,1re Section Savanette,9 053,9 174,18 226
+259,42302,Nord-Est,Mont-Organisé,2e Section Bois Poux,2 705,2 730,5 436
+260,43101,Nord-Est,Trou du Nord,1re Section Garcin,1 314,1 333,2 648
+261,43102,Nord-Est,Trou du Nord,2e Section Roucou,22 329,21 250,43 579
+262,43103,Nord-Est,Trou du Nord,3e Section Roche Plate,4 455,4 518,8 973
+263,43201,Nord-Est,Sainte Suzanne,1re Section Foulon,1 735,1 890,3 625
+264,43202,Nord-Est,Sainte Suzanne,2e Section Bois Blanc,1 804,1 942,3 745
+265,43203,Nord-Est,Sainte Suzanne,3e Section Cotelette,1 507,1 644,3 151
+266,43204,Nord-Est,Sainte Suzanne,4e Section Sarazin,2 291,2 465,4 756
+267,43205,Nord-Est,Sainte Suzanne,5e Section Moka Neuf,2 660,2 896,5 556
+268,43206,Nord-Est,Sainte Suzanne,6e Section Fond Bleu,5 171,5 618,10 790
+269,43301,Nord-Est,Terrier Rouge,1re Section Fond Blanc,9 900,10 058,19 957
+270,43302,Nord-Est,Terrier Rouge,2e Section Grand Bassin,7 069,7 184,14 253
+271,43401,Nord-Est,Caracol,1re Section Champin,2 846,3 192,6 038
+272,43402,Nord-Est,Caracol,"2e Section Glaudine ou ""Jacquesil""",1 270,1 400,2 670
+273,44101,Nord-Est,Vallières,1re Section Trois Palmistes,6 325,6 776,13 100
+274,44102,Nord-Est,Vallières,2e Section Ecrevisse ou Grosse Roche,3 770,4 039,7 809
+275,44103,Nord-Est,Vallières,3e Section Corosse,2 725,2 919,5 643
+276,44201,Nord-Est,Carice,1re Section Bois Camelle,1 381,1 458,2 839
+277,44202,Nord-Est,Carice,2e Section Rose Bonite,6 192,6 330,12 522
+278,44301,Nord-Est,Mombin Crochu,1re Section Sans Souci,7 816,7 831,15 646
+279,44302,Nord-Est,Mombin Crochu,2e Section Bois Laurence,11 739,11 762,23 501
+280,51101,Artibonite,Gonaïves,1re Section Pont Tamarin,128 387,118 284,246 671
+281,51102,Artibonite,Gonaïves,2e Section Bassin,61 313,56 518,117 831
+282,51103,Artibonite,Gonaïves,3e Section Pte Rivière de Bayonnais,14 169,13 264,27 433
+283,51104,Artibonite,Gonaïves,4e Section Poteaux,9 142,8 572,17 715
+284,51105,Artibonite,Gonaïves,5e Section Labranle,6 501,6 099,12 600
+285,51201,Artibonite,Ennery,1re Section Savane Carree,10 106,10 426,20 532
+286,51202,Artibonite,Ennery,2e Section Passe-Reine ou Bas d'Ennery,9 979,10 154,20 134
+287,51203,Artibonite,Ennery,3e Section Chemin Neuf,3 155,3 254,6 409
+288,51204,Artibonite,Ennery,4e Section Puilboreau,6 742,6 883,13 624
+289,51301,Artibonite,L'Estère,1re Section La Croix Perisse,13 839,13 663,27 502
+290,51302,Artibonite,L'Estère,2e Section Petite Desdunes,13 089,12 924,26 012
+291,52101,Artibonite,Gros Morne,1re Section Boucan Richard,4 643,4 791,9 434
+292,52102,Artibonite,Gros Morne,2e Section Rivière Mancelle,8 519,8 793,17 312
+293,52103,Artibonite,Gros Morne,3e Section Rivière Blanche,31 231,30 225,61 456
+294,52104,Artibonite,Gros Morne,4e Section l'Acul,10 367,10 696,21 063
+295,52105,Artibonite,Gros Morne,5e Section Pendu,3 870,3 991,7 861
+296,52106,Artibonite,Gros Morne,6e Section Savane Carree,14 161,14 609,28 770
+297,52107,Artibonite,Gros Morne,7e Section Moulin,9 278,9 573,18 850
+298,52108,Artibonite,Gros Morne,8e Section Ravine Gros Morne,9 722,10 030,19 752
+299,52201,Artibonite,Terre Neuve,1re Section Doland,6 941,7 158,14 098
+300,52202,Artibonite,Terre Neuve,2e Section Bois Neuf,5 036,5 373,10 409
+301,52203,Artibonite,Terre Neuve,3e Section Lagon,6 168,6 359,12 527
+302,52301,Artibonite,Anse Rouge,1re Section l'Arbre,10 374,10 538,20 912
+303,52302,Artibonite,Anse Rouge,2e Section Sources Chaudes,15 261,15 251,30 512
+304,53101,Artibonite,Saint-Marc,1re Section Deluge,13 424,12 926,26 350
+305,53102,Artibonite,Saint-Marc,2e Section Bois Neuf,37 250,35 070,72 319
+306,53103,Artibonite,Saint-Marc,3e Section Goyavier,6 349,6 407,12 757
+307,53104,Artibonite,Saint-Marc,4e Section Lalouère,9 268,9 351,18 619
+308,53105,Artibonite,Saint-Marc,5e Section Bocozelle,36 936,35 256,72 191
+309,53106,Artibonite,Saint-Marc,6e Section Charrette,59 700,54 039,113 739
+310,53201,Artibonite,Verrettes,1re Section Liancourt,22 858,22 562,45 420
+311,53202,Artibonite,Verrettes,2e Section Belanger,15 609,15 671,31 280
+312,53203,Artibonite,Verrettes,3e Section Guillaume Moge (Quartier de Desarmes),8 510,8 453,16 963
+313,53204,Artibonite,Verrettes,4e Section Desarmes (Quartier de Desarmes),16 615,16 435,33 050
+314,53205,Artibonite,Verrettes,5e Section Bastien,15 288,15 126,30 414
+315,53206,Artibonite,Verrettes,6e Section Terre Natte,7 218,7 262,14 480
+316,53301,Artibonite,La Chapelle,1re Section Martineau,7 098,7 433,14 531
+317,53302,Artibonite,La Chapelle,2e Section Bossous,11 263,11 598,22 860
+318,54101,Artibonite,Dessalines,1re Section Villars,17 564,17 953,35 518
+319,54102,Artibonite,Dessalines,2e Section Fosse Naboth ou Duvallon,18 510,18 921,37 431
+320,54103,Artibonite,Dessalines,3e Section Oge,40 257,40 255,80 512
+321,54104,Artibonite,Dessalines,4e Section Poste Pierrot,12 528,12 805,25 333
+322,54105,Artibonite,Dessalines,5e Section Fiefe ou Petit Cahos,6 726,6 880,13 606
+323,54106,Artibonite,Dessalines,6e Section la Croix ou Grand Cahos,11 452,11 707,23 159
+324,54201,Artibonite,Petite Rivière de l'Artibonite,1re Section Bas Coursin I,24 011,25 249,49 260
+325,54202,Artibonite,Petite Rivière de l'Artibonite,2e Section Bas Coursin II,7 904,8 315,16 219
+326,54203,Artibonite,Petite Rivière de l'Artibonite,3e Section Labady,36 092,34 586,70 678
+327,54204,Artibonite,Petite Rivière de l'Artibonite,4e Section Savane à Roche,13 996,14 336,28 333
+328,54205,Artibonite,Petite Rivière de l'Artibonite,5e Section Perodin,9 133,9 606,18 739
+329,54206,Artibonite,Petite Rivière de l'Artibonite,6e Section Medor,9 311,9 791,19 101
+330,54301,Artibonite,Grande Saline,1re Section Poteneau,13 016,14 521,27 537
+331,54401,Artibonite,Desdunes,1re Section de Desdunes,21 826,22 050,43 876
+332,55101,Artibonite,Saint-Michel de l'Attalaye,1re Section Platana,18 601,17 882,36 483
+333,55102,Artibonite,Saint-Michel de l'Attalaye,2e Section Camathe,6 623,6 566,13 189
+334,55103,Artibonite,Saint-Michel de l'Attalaye,3e Section Bas de Sault,12 299,11 925,24 224
+335,55104,Artibonite,Saint-Michel de l'Attalaye,4e Section Lalomas,10 065,9 980,20 045
+336,55105,Artibonite,Saint-Michel de l'Attalaye,5e Section l'Ermite,6 094,6 041,12 136
+337,55106,Artibonite,Saint-Michel de l'Attalaye,6e Section Lacedras,8 909,8 832,17 741
+338,55107,Artibonite,Saint-Michel de l'Attalaye,7e Section Marmont,11 998,11 878,23 877
+339,55108,Artibonite,Saint-Michel de l'Attalaye,8e Section l'Attalaye,15 591,15 071,30 662
+340,55201,Artibonite,Marmelade,1re Section Crête à Pins,9 871,10 307,20 179
+341,55202,Artibonite,Marmelade,2e Section Bassin ou Billier,7 472,7 655,15 127
+342,55203,Artibonite,Marmelade,3e Section Platon,4 837,4 956,9 793
+343,61101,Centre,Hinche,1re Section Juanaria,34 246,34 315,68 561
+344,61102,Centre,Hinche,2e Section Marmont,9 214,9 676,18 889
+345,61103,Centre,Hinche,3e Section Aguahedionde (Rive Droite),11 953,12 496,24 450
+346,61104,Centre,Hinche,4e Section Aguahedionde (Rive Gauche),12 223,12 836,25 059
+347,61201,Centre,Maïssade,1re Section Savane Grande,19 634,20 618,40 252
+348,61202,Centre,Maïssade,2e Section Narang,4 994,5 362,10 356
+349,61203,Centre,Maïssade,3e Section Hatty,7 803,8 380,16 182
+350,61301,Centre,Thomonde,1re Section Cabral,13 716,14 639,28 355
+351,61302,Centre,Thomonde,2e Section Tierra Muscady,7 391,8 261,15 652
+352,61303,Centre,Thomonde,3e Section Baille Tourrible,3 776,4 218,7 993
+353,61304,Centre,Thomonde,La Hoye,8 556,9 563,18 119
+354,61401,Centre,Cerca Carvajal,1re Section Rang,13 083,13 268,26 351
+355,62101,Centre,Mirebalais,1re Section Gascogne,12 555,13 011,25 566
+356,62102,Centre,Mirebalais,2e Section Sarazin,7 862,8 145,16 007
+357,62103,Centre,Mirebalais,3e Section Grand Boucan,9 124,9 455,18 579
+358,62104,Centre,Mirebalais,4e Section Crête Brûlee,25 182,25 437,50 619
+359,62201,Centre,Saut d'Eau,1re Section Canot ou Rivière Canot,7 439,8 093,15 532
+360,62202,Centre,Saut d'Eau,2e Section la Selle,5 796,6 254,12 050
+361,62203,Centre,Saut d'Eau,3e Section Coupe Mardi Gras,4 718,5 079,9 797
+362,62204,Centre,Saut d'Eau,4e Section Montagne Terrible,3 319,3 573,6 892
+363,62301,Centre,Boucan Carré,1re Section Petite Montagne,5 411,5 878,11 288
+364,62302,Centre,Boucan Carré,2e Section Boucan Carre,12 065,13 096,25 161
+365,62303,Centre,Boucan Carré,3e Section des Bayes,12 971,14 068,27 039
+366,63101,Centre,Lascahobas,1re Section Petit Fond,8 434,8 749,17 183
+367,63102,Centre,Lascahobas,2e Section Juampas,17 384,17 413,34 797
+368,63201,Centre,Belladère,1re Section Renthe Mathe,27 775,28 987,56 762
+369,63202,Centre,Belladère,2e Section Roye-Sec,9 682,10 419,20 101
+370,63203,Centre,Belladère,3e Section Riaribes,10 249,11 032,21 282
+371,63301,Centre,Savanette,1re Section de Savanette (Colombier),5 156,5 411,10 567
+372,63302,Centre,Savanette,2e Section la Haye,15 012,15 442,30 454
+373,64101,Centre,Cerca La Source,1re Section Acaj ou Brûle No 1,11 320,11 831,23 152
+374,64102,Centre,Cerca La Source,2e Section Acaj ou Brûle No 1,13 182,13 532,26 714
+375,64103,Centre,Cerca La Source,3e Section Lamielle,6 939,7 254,14 194
+376,64201,Centre,Thomassique,1re Section Matelgate,20 905,21 216,42 121
+377,64202,Centre,Thomassique,2e Section Lociane,14 580,14 940,29 520
+378,71101,Sud,Les Cayes,1re Section Bourdet,37 716,35 395,73 111
+379,71102,Sud,Les Cayes,2e Section Fonfrède,3 705,3 939,7 645
+380,71103,Sud,Les Cayes,3e Section Laborde,5 907,6 168,12 075
+381,71104,Sud,Les Cayes,4e Section Laurent,23 384,21 899,45 283
+382,71105,Sud,Les Cayes,5e Section Mercy,3 733,3 968,7 701
+383,71106,Sud,Les Cayes,6e Section Boulmier,4 379,4 656,9 035
+384,71201,Sud,Torbeck,1re Section Boury,14 429,15 929,30 358
+385,71202,Sud,Torbeck,2e Section Berault,8 936,9 902,18 837
+386,71203,Sud,Torbeck,3e Section Solon,9 472,10 450,19 922
+387,71204,Sud,Torbeck,4e Section Moreau,4 061,4 486,8 547
+388,71301,Sud,Chantal,1re Section Fonds Palmiste,3 203,3 589,6 792
+389,71302,Sud,Chantal,2e Section Melonière,7 869,8 631,16 500
+390,71303,Sud,Chantal,3e Section Carrefour Canon,5 443,6 095,11 538
+391,71401,Sud,Camp-Perrin,1re Section Levy Mersan,7 246,8 061,15 307
+392,71402,Sud,Camp-Perrin,2e Section Champlois,9 440,10 399,19 839
+393,71403,Sud,Camp-Perrin,3e Section Tibi Davezac,5 106,5 728,10 834
+394,71501,Sud,Maniche,1re Section Maniche,4 178,4 746,8 924
+395,71502,Sud,Maniche,2e Section Dory,2 852,3 292,6 144
+396,71503,Sud,Maniche,3e Section Melon,4 349,5 015,9 364
+397,71601,Sud,Île à Vache,1re Section Île à Vache,7 270,8 449,15 720
+398,72101,Sud,Port-Salut,1re Section Barbois,6 281,7 122,13 403
+399,72102,Sud,Port-Salut,2e Section Dumont,2 929,3 163,6 092
+400,72201,Sud,Saint Jean du Sud,1re Section Tapion,4 783,5 700,10 483
+401,72202,Sud,Saint Jean du Sud,2e Section Debouchette,3 132,3 732,6 864
+402,72203,Sud,Saint Jean du Sud,3e Section Trichet,4 011,4 740,8 751
+403,72301,Sud,Arniquet,1re Section Lazarre,1 084,1 264,2 348
+404,72302,Sud,Arniquet,2e Section Anse à Drick,7 398,8 614,16 011
+405,72303,Sud,Arniquet,3e Section d'Arniquet,5 264,6 164,11 428
+406,73101,Sud,Aquin,1re Section Macéan,4 712,4 847,9 559
+407,73102,Sud,Aquin,2e Section Bellevue,7 585,7 832,15 418
+408,73103,Sud,Aquin,3e Section Brodequin,7 210,7 214,14 424
+409,73104,Sud,Aquin,4e Section Flamands,2 955,3 110,6 065
+410,73105,Sud,Aquin,5e Section Mare à Coiffe,3 818,4 018,7 836
+411,73106,Sud,Aquin,6e Section La Colline,8 006,8 429,16 435
+412,73107,Sud,Aquin,7e Section Frangipane,5 565,5 857,11 423
+413,73108,Sud,Aquin,8e Section Colline à Mongons,3 618,3 810,7 427
+414,73109,Sud,Aquin,9e Section Fond des Blancs,3 902,4 080,7 983
+415,73110,Sud,Aquin,10e Section Guirand,4 781,5 032,9 814
+416,73201,Sud,Saint louis du Sud,1re Section Grand Fonds,1 397,1 457,2 854
+417,73202,Sud,Saint louis du Sud,2e Section Baie Dumesle,8 425,8 561,16 986
+418,73203,Sud,Saint louis du Sud,3e Section Grenodière,6 302,6 568,12 870
+419,73204,Sud,Saint louis du Sud,4e Section Zanglais,4 408,4 596,9 003
+420,73205,Sud,Saint louis du Sud,5e Section Sucrerie Henri,2 563,2 674,5 238
+421,73206,Sud,Saint louis du Sud,6e Section Solon,4 065,4 237,8 302
+422,73207,Sud,Saint louis du Sud,7e Section Cherette,2 807,2 924,5 731
+423,73208,Sud,Saint louis du Sud,8e Section Corail-Henri,2 591,2 699,5 290
+424,73301,Sud,Cavaillon,1re Section Boileau,8 006,8 943,16 949
+425,73302,Sud,Cavaillon,2e Section Martineau,6 608,7 290,13 898
+426,73303,Sud,Cavaillon,3e Section Gros Marin,3 177,3 548,6 725
+427,73304,Sud,Cavaillon,4e Section Mare Henri,3 957,4 418,8 375
+428,73305,Sud,Cavaillon,5e Section Laroque,1 771,1 981,3 752
+429,74101,Sud,Côteaux,1re Section Conde,3 228,3 547,6 775
+430,74102,Sud,Côteaux,2e Section Despas,5 152,5 597,10 749
+431,74103,Sud,Côteaux,3e Section Quentin,2 012,2 209,4 221
+432,74201,Sud,Port-à-Piment,1re Section Paricot,6 183,6 464,12 647
+433,74202,Sud,Port-à-Piment,2e Section Balais,3 234,3 434,6 668
+434,74301,Sud,Roche à Bâteau,1re Section Beaulieu,6 399,7 034,13 433
+435,74302,Sud,Roche à Bâteau,2e Section Renaudin,908,999,1 908
+436,74303,Sud,Roche à Bâteau,3e Section Beauclos,1 639,1 796,3 435
+437,75101,Sud,Chardonnières,1re Section Randel,4 579,5 303,9 882
+438,75102,Sud,Chardonnières,2e Section Dejoie,2 895,3 387,6 282
+439,75103,Sud,Chardonnières,3e Section Bony,4 471,5 129,9 601
+440,75201,Sud,Les Anglais,1re Section Verone,2 705,3 101,5 806
+441,75202,Sud,Les Anglais,2e Section Edelin,1 858,2 128,3 986
+442,75203,Sud,Les Anglais,3e Section Cosse,9 849,10 870,20 719
+443,75301,Sud,Tiburon,1re Section Blactote,5 337,5 766,11 102
+444,75302,Sud,Tiburon,2e Section Nan Sevre,1 210,1 441,2 651
+445,75303,Sud,Tiburon,3e Section Loby,2 906,3 464,6 370
+446,75304,Sud,Tiburon,4e Section Dalmette,1 730,1 910,3 640
+447,81101,Grande'Anse,Jérémie,1re Section Basse Voldrogue,3 159,3 531,6 689
+448,81102,Grande'Anse,Jérémie,2e Section Haute Voldrogue,5 928,6 511,12 439
+449,81103,Grande'Anse,Jérémie,3e Section Haute Guinaudee,9 981,11 160,21 141
+450,81104,Grande'Anse,Jérémie,4e Section Basse Guinaudee,4 620,5 164,9 784
+451,81105,Grande'Anse,Jérémie,5e Section Ravine à Charles,5 332,5 962,11 295
+452,81106,Grande'Anse,Jérémie,6e Section Îles Blanches,6 127,6 849,12 975
+453,81107,Grande'Anse,Jérémie,7e Section Marfranc ou Grande Rivière,4 102,4 244,8 345
+454,81108,Grande'Anse,Jérémie,8e Section Fond Rouge Dahere,14 269,13 526,27 794
+455,81109,Grande'Anse,Jérémie,9e Section Fond Rouge Torbeck,13 946,13 569,27 515
+456,81201,Grande'Anse,Abricots,1re Section Anse du Clerc,4 044,4 547,8 591
+457,81202,Grande'Anse,Abricots,2e Section Balisiers,5 831,6 527,12 358
+458,81203,Grande'Anse,Abricots,3e Section Danglise,3 388,3 808,7 196
+459,81204,Grande'Anse,Abricots,4e Section la Seringue,4 969,5 588,10 557
+460,81301,Grande'Anse,Bonbon,1re Section Desormeau ou Bonbon,4 071,4 776,8 847
+461,81401,Grande'Anse,Moron,1re Section Anote ou 1re Tapion,6 953,7 683,14 635
+462,81402,Grande'Anse,Moron,2e Section Sources Chaudes,2 713,2 982,5 695
+463,81403,Grande'Anse,Moron,3e Section l'Assise ou Chameau,5 566,6 110,11 676
+464,81501,Grande'Anse,Chambellan,1re Section Dejean,6 868,7 294,14 162
+465,81502,Grande'Anse,Chambellan,2e Section Boucan,6 365,6 652,13 017
+466,82101,Grande'Anse,Anse d'Hainault,1re Section Grandoit,8 527,9 137,17 664
+467,82102,Grande'Anse,Anse d'Hainault,2e Section Boudon,3 480,4 009,7 490
+468,82103,Grande'Anse,Anse d'Hainault,3e Section Îlet à Pierre Joseph,3 897,4 487,8 384
+469,82104,Grande'Anse,Anse d'Hainault,4e Section Mandou,1 790,2 064,3 854
+470,82201,Grande'Anse,Dame Marie,1re Section Bariadelle,2 780,3 092,5 872
+471,82202,Grande'Anse,Dame Marie,2e Section Dallier,837,931,1 768
+472,82203,Grande'Anse,Dame Marie,3e Section Desormeau,7 870,7 950,15 820
+473,82204,Grande'Anse,Dame Marie,4e Section Petite Rivière,2 756,3 036,5 792
+474,82205,Grande'Anse,Dame Marie,5e Section Baliverne,4 996,5 556,10 552
+475,82301,Grande'Anse,Les Irois,1re Section Matador (Jorgue),6 138,7 250,13 388
+476,82302,Grande'Anse,Les Irois,2e Section Belair,2 575,3 108,5 683
+477,82303,Grande'Anse,Les Irois,3e Section Garcasse,2 294,2 647,4 941
+478,83101,Grande'Anse,Corail,1re Section Duquillon,5 506,6 063,11 568
+479,83102,Grande'Anse,Corail,2e Section Fond d'Icaque,2 901,3 284,6 185
+480,83103,Grande'Anse,Corail,3e Section Champy (Nan Campêche),1 100,1 245,2 345
+481,83201,Grande'Anse,Roseaux,1re Section Carrefour Charles ou Jacqui,3 440,3 922,7 362
+482,83202,Grande'Anse,Roseaux,2e Section Fond Cochon ou Lopineau,5 634,6 425,12 060
+483,83203,Grande'Anse,Roseaux,3e Section Grand Vincent,4 019,4 582,8 600
+484,83204,Grande'Anse,Roseaux,4e Section les Gommiers,4 139,4 569,8 708
+485,83301,Grande'Anse,Beaumont,"1re Section Beaumont
+",9 712,10 395,20 107
+486,83302,Grande'Anse,Beaumont,"2e Section Chardonnette
+",4 260,4 667,8 927
+487,83303,Grande'Anse,Beaumont,3e Section Mouline,1 625,1 782,3 407
+488,83401,Grande'Anse,Pestel,1re Section Bernagousse,3 158,3 617,6 775
+489,83402,Grande'Anse,Pestel,2e Section Espère,5 169,5 863,11 032
+490,83403,Grande'Anse,Pestel,3e Section Jean Bellune,1 853,2 123,3 976
+491,83404,Grande'Anse,Pestel,4e Section Tozia,5 842,6 693,12 535
+492,83405,Grande'Anse,Pestel,5e Section Duchity,2 881,3 302,6 183
+493,83406,Grande'Anse,Pestel,6e Section Les Îles Cayemittes,2 503,2 870,5 373
+494,91101,Nord-Ouest,Port-de-Paix,1re Section Baudin,33 863,31 469,65 332
+495,91102,Nord-Ouest,Port-de-Paix,2e Section la Pointe,6 038,5 797,11 834
+496,91103,Nord-Ouest,Port-de-Paix,3e Section Aubert,55 361,51 152,106 513
+497,91104,Nord-Ouest,Port-de-Paix,4e Section Mahotière,15 566,14 947,30 513
+498,91105,Nord-Ouest,Port-de-Paix,5e Section Bas des Moustiques,8 346,8 012,16 358
+499,91106,Nord-Ouest,Port-de-Paix,6e Section la Corne,6 399,6 144,12 542
+500,91201,Nord-Ouest,La Tortue,1re Section Pointe des Oiseaux,11 293,11 589,22 882
+501,91202,Nord-Ouest,La Tortue,2e Section Mare Rouge,11 616,11 824,23 440
+502,91301,Nord-Ouest,Bassin Bleu,1re Section La Plate,10 844,10 926,21 770
+503,91302,Nord-Ouest,Bassin Bleu,2e Section Carreau Datty,6 769,6 822,13 591
+504,91303,Nord-Ouest,Bassin Bleu,3e Section Haut des Moustiques,20 235,20 017,40 253
+505,91401,Nord-Ouest,Chamsolme,1re Section Chansolme,10 554,10 124,20 679
+506,91402,Nord-Ouest,Chamsolme,2e Source Beauvoir,8 012,7 493,15 505
+507,92101,Nord-Ouest,Saint-Louis du Nord,1re Section Rivière des Nègres,7 391,7 210,14 602
+508,92102,Nord-Ouest,Saint-Louis du Nord,2e Section Derourvay,24 001,21 632,45 633
+509,92103,Nord-Ouest,Saint-Louis du Nord,3e Section des Granges,15 624,14 707,30 331
+510,92104,Nord-Ouest,Saint-Louis du Nord,4e Section Rivière de Barre,10 863,10 626,21 489
+511,92105,Nord-Ouest,Saint-Louis du Nord,5e Section Bonneau,9 105,8 735,17 840
+512,92106,Nord-Ouest,Saint-Louis du Nord,6e Section Lafague (Chamoise),4 431,4 338,8 769
+513,92201,Nord-Ouest,Anse-à-Foleur,1re Section Bas de Sainte Anne,6 086,6 299,12 385
+514,92202,Nord-Ouest,Anse-à-Foleur,2e Section Mayance,3 753,3 882,7 635
+515,92203,Nord-Ouest,Anse-à-Foleur,3e Section Cotes de Fer,8 191,7 801,15 993
+516,93101,Nord-Ouest,Môle Saint Nicolas,1re Section de Cotes de Fer,9 224,9 924,19 148
+517,93102,Nord-Ouest,Môle Saint Nicolas,2e Section Mare-Rouge,9 995,10 602,20 597
+518,93103,Nord-Ouest,Môle Saint Nicolas,3e Section Dame,298,313,611
+519,93201,Nord-Ouest,Baie de Henne,1re Section Citerne Remy,895,950,1 845
+520,93202,Nord-Ouest,Baie de Henne,2e Section Dos d'Ane,2 763,2 927,5 690
+521,93203,Nord-Ouest,Baie de Henne,3e Section Reserve ou Ti Paradis,9 101,9 645,18 746
+522,93204,Nord-Ouest,Baie de Henne,4e Section l'Estère Dere,3 049,3 188,6 237
+523,93301,Nord-Ouest,Bombardopolis,1re Section Plate Forme,8 015,8 253,16 268
+524,93302,Nord-Ouest,Bombardopolis,2e Section des Forges,8 006,8 588,16 594
+525,93303,Nord-Ouest,Bombardopolis,3e Section Plaine d'Orange,4 863,5 213,10 075
+526,93401,Nord-Ouest,Jean Rabel,1re Section Lacoma,14 802,15 308,30 110
+527,93402,Nord-Ouest,Jean Rabel,2e Section Guinaudee,13 725,14 191,27 915
+528,93403,Nord-Ouest,Jean Rabel,3e Section Vieille Hatte,16 523,16 785,33 308
+529,93404,Nord-Ouest,Jean Rabel,4e Section la Montagne,7 170,7 418,14 587
+530,93405,Nord-Ouest,Jean Rabel,5e Section Dessources,13 379,13 185,26 564
+531,93406,Nord-Ouest,Jean Rabel,6e Section Grande Source,14 220,14 702,28 922
+532,93407,Nord-Ouest,Jean Rabel,7e Section Diondion,7 606,7 867,15 473
+533,101101,Nippes,Miragoâne,1re Section Chalon,17 482,17 621,35 103
+534,101102,Nippes,Miragoâne,2e Section Belle Rivière,4 702,5 000,9 701
+535,101103,Nippes,Miragoâne,3e Section Dessources,4 733,5 030,9 763
+536,101104,Nippes,Miragoâne,4e Section St-Michel,4 797,4 867,9 664
+537,101201,Nippes,Petite Rivière de Nippes,1re Section Fond des Lianes,4 720,5 244,9 964
+538,101202,Nippes,Petite Rivière de Nippes,2e Section Cholette,2 935,3 301,6 235
+539,101203,Nippes,Petite Rivière de Nippes,3e Section Silègue,4 726,5 252,9 979
+540,101204,Nippes,Petite Rivière de Nippes,4e Section Bezin,1 483,1 669,3 153
+541,101301,Nippes,Fonds des Nègres,1er Section Bouzi,3 158,3 120,6 278
+542,101302,Nippes,Fonds des Nègres,2e Section Fond-des-Nègres ou Morne Brice,6 250,6 138,12 388
+543,101303,Nippes,Fonds des Nègres,3e Section Pemerle,4 822,4 943,9 765
+544,101304,Nippes,Fonds des Nègres,4e Section Cocoyers-Ducheine,2 909,2 984,5 893
+545,101401,Nippes,Paillant,1re Section Salagnac,4 749,4 856,9 605
+546,101402,Nippes,Paillant,2e Section Bezin II,4 025,4 175,8 200
+547,102101,Nippes,Anse-à-Veau,1re Section Baconnois-Grand-Fond,3 606,4 057,7 662
+548,102102,Nippes,Anse-à-Veau,2e Section Grande-Rivière-Joly,8 113,9 122,17 235
+549,102103,Nippes,Anse-à-Veau,3e Section Saut du Baril,5 018,5 641,10 659
+550,102201,Nippes,Petit Trou de Nippes,1re Section Raymond,3 545,4 325,7 870
+551,102202,Nippes,Petit Trou de Nippes,2e Section Tiby,6 747,8 055,14 802
+552,102203,Nippes,Petit Trou de Nippes,3e Section Liève ou Vigny,3 678,4 458,8 136
+553,102301,Nippes,L'Asile,4e Section Morisseau,2 279,2 523,4 802
+554,102302,Nippes,L'Asile,2e Section Changeux (Quartier de Changeux),4 792,5 243,10 035
+555,102303,Nippes,L'Asile,1re Section l'Asile ou Nan Paul,4 230,4 604,8 834
+556,102304,Nippes,L'Asile,3e Section Tournade (Quartier de Changeux),8 820,9 700,18 520
+557,102401,Nippes,Arnaud,1re Section Baconnois-Barreau,4 234,4 715,8 950
+558,102402,Nippes,Arnaud,2e Section Baquet,2 896,3 291,6 187
+559,102403,Nippes,Arnaud,3e Section Arnaud (Morcou),2 923,3 224,6 146
+560,102501,Nippes,Plaisance du Sud,1re Section Plaisance du Sud (ou ti François),4 776,5 638,10 413
+561,102502,Nippes,Plaisance du Sud,2e Section Anse aux Pins,4 394,5 246,9 640
+562,102503,Nippes,Plaisance du Sud,3e Section Vassal Labiche,3 616,4 319,7 934
+563,103101,Nippes,Baradères,1re Section Gerin ou Mouton,2 764,3 286,6 050
+564,103102,Nippes,Baradères,2e Section Tête d'Eau,3 999,4 767,8 767
+565,103103,Nippes,Baradères,3e Section Fond Tortue,4 919,5 828,10 747
+566,103104,Nippes,Baradères,4e Section la Plaine,3 598,4 284,7 883
+567,103105,Nippes,Baradères,5e Section Rivière Salee,3 954,4 703,8 656
+568,103201,Nippes,Grand-Boucan,1re Section Grand-Boucan,1 768,2 073,3 841
+569,103202,Nippes,Grand-Boucan,2e Section Eaux Basses,1 025,1 107,2 132

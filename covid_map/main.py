@@ -68,8 +68,7 @@ selectA=Select(title="Indicator", options=departementsgpd.columns.tolist(), valu
 selectB=Select(title="Indicator", options=communesgpd.columns.tolist(), value="Population") 
 selectC=Select(title="Indicator", options=sectionsgpd.columns.tolist(), value="Population")   
 
-artibonite=communesgpd[communesgpd["ADM1_FR"]=="Artibonite"]
-dessalines=sectionsgpd[sectionsgpd['ADM2_FR']=="Dessalines"]
+
 
 
 select1 = Select(title='Departements', options=communesgpd["ADM1_FR"].cat.categories.tolist(), value='Artibonite')
@@ -91,15 +90,19 @@ sectiontool=[("Nom","@ADM3_FR"),
                 ("qte dispensaires","@Dispensair")
                 ]
 
+#compute hospital per 1000 inhabitants
+departementsgpd["hosmil"]=(departementsgpd["hop"]*1000)/departementsgpd["IHSI_UNFPA"]
+communesgpd["hosmil"]=(communesgpd["hop"]*1000)/communesgpd["IHSI_UNFPA"]
+sectionsgpd["hosmil"]=(sectionsgpd["hop"]*1000)/sectionsgpd["IHSI_UNFPA"]
 
-p1=plot_map(departementsgpd,column="hop",title=" Hopital par departement",tooltip=deptool )
-"""
-Try to uncomment lines 85,86, 98, 99, 102 to 104 you will get OverflowError: Maximum recursion level reached, can you help me with that
-I need them because the user should e able to select departement, commune, etc
-"""
+artibonite=communesgpd[communesgpd["ADM1_FR"]=="Artibonite"]
+dessalines=sectionsgpd[sectionsgpd['ADM2_FR']=="Dessalines"]
+print(communesgpd.columns)
+#create figure
 
-p2=plot_map(artibonite,column="hop",title="Hop par com",tooltip=comtool )
-p3=plot_map(dessalines,column="hop",title="Hop par section",tooltip=sectiontool )   
+p1=plot_map(departementsgpd,column="hosmil",title=" Hopital par 1000 habitants",tooltip=deptool )
+p2=plot_map(artibonite,column="hosmil",title=" Hopital par 1000 habitants",tooltip=comtool )
+p3=plot_map(dessalines,column="hosmil",title=" Hopital par 1000 habitants",tooltip=sectiontool )   
 
 def dep_update(attr, old,new):
     data=getDataset(communesgpd, select1.value, "ADM1_FR")

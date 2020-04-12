@@ -1,0 +1,7 @@
+PSQL_DB_HOST="haiti-data.cgz5ttlgvxan.us-east-2.rds.amazonaws.com"
+PSQL_DB_USER="ayiti"
+PSQL_DB_PASSWORD="pasgenbrobleme"
+PSQL_DB_NAME="postgres"
+AWS_ACCESS_KEY="#ENTER YOUR KEY from AWS ADMIN"
+AWS_SECRET_ACCESS_KEY="#ENTER YOUR SECRET FROM AWS ADMIN"
+USERNAME="#ENTER YOUR USERNAME"
